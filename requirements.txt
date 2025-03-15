@@ -2,3 +2,4 @@ flask
 ytmusicapi
 gunicorn
 yt-dlp
+requests
