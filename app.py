@@ -8,16 +8,15 @@ ytmusic = YTMusic()
 def get_audio_url(video_id):
     """YouTube Music'ten video ID'sine göre MP3 URL'si alır."""
     ydl_opts = {
-        'format': 'bestaudio',
+        'format': 'bestaudio[ext=m4a]/bestaudio',
         'quiet': True,
         'extract_flat': False
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(f"https://music.youtube.com/watch?v={video_id}", download=False)
-        for fmt in info['formats']:
-            if 'audio' in fmt['format'] and fmt.get('url'):
-                return fmt['url']
-    return None
+        if 'url' in info:
+            return info['url']
+        return None
 
 @app.route('/top100', methods=['GET'])
 def get_top100():
