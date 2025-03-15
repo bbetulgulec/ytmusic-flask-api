@@ -6,20 +6,19 @@ app = Flask(__name__)
 ytmusic = YTMusic()
 
 def get_audio_url(video_id):
-    """YouTube Music'ten video ID'sine göre MP3 URL'si alır (indirmeden çalar)."""
+    """YouTube Music'ten video ID'sine göre MP3 URL'si alır."""
     ydl_opts = {
-        'format': 'bestaudio[ext=m4a]/bestaudio',
+        'format': 'bestaudio',
         'quiet': True,
         'extract_flat': False,
-        'cookies': 'cookies.txt'  # Eğer oturum açmak gerekirse kullan
+        'cookies': 'cookies.txt'  # Çerezleri ekle
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        try:
-            info = ydl.extract_info(f"https://music.youtube.com/watch?v={video_id}", download=False)
-            return info.get("url")  # URL varsa döndür
-        except Exception as e:
-            print(f"Hata: {str(e)}")
-            return None
+        info = ydl.extract_info(f"https://music.youtube.com/watch?v={video_id}", download=False)
+        for fmt in info['formats']:
+            if 'audio' in fmt['format'] and fmt.get('url'):
+                return fmt['url']
+    return None
 
 
 @app.route('/top100', methods=['GET'])
