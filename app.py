@@ -1,47 +1,77 @@
-from flask import Flask, jsonify
+import os
+import time
+from flask import Flask, jsonify, send_from_directory
 from ytmusicapi import YTMusic
 import yt_dlp
 
 app = Flask(__name__)
 ytmusic = YTMusic()
 
-def get_audio_url(video_id):
-    """YouTube Music'ten video ID'sine göre MP3 URL'si alır."""
-    ydl_opts = {
-        'format': 'bestaudio',
-        'quiet': True,
-        'extract_flat': False,
-        'cookies': 'cookies.txt'  # Çerezleri ekle
-    }
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(f"https://music.youtube.com/watch?v={video_id}", download=False)
-        for fmt in info['formats']:
-            if 'audio' in fmt['format'] and fmt.get('url'):
-                return fmt['url']
-    return None
+# 📌 MP3 dosyalarını saklayacak klasör (Render içinde)
+music_folder = "/tmp/music"
+os.makedirs(music_folder, exist_ok=True)
 
+# 📌 Playlist ID
+playlist_id = "PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
+
+def download_song(video_id, title):
+    """YouTube Music'ten MP3 indirir ve sunucuda saklar."""
+    url = f"https://music.youtube.com/watch?v={video_id}"
+    file_path = os.path.join(music_folder, f"{title}.mp3")
+
+    if os.path.exists(file_path):
+        print(f"⏩ {title} zaten indirildi, atlanıyor.")
+        return file_path
+
+    ydl_opts = {
+        "format": "bestaudio",
+        "quiet": True,
+        "extract_audio": True,
+        "audio_format": "mp3",
+        "outtmpl": file_path,
+        "noplaylist": True,
+        "cookies": "cookies.txt" if os.path.exists("cookies.txt") else None,
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([url])
+        print(f"✅ İndirildi: {title}")
+        return file_path
+    except Exception as e:
+        print(f"❌ {title} indirilemedi: {str(e)}")
+        return None
 
 @app.route('/top100', methods=['GET'])
 def get_top100():
+    """Şarkıları indirir ve indirilebilir linkleri döndürür."""
     try:
-        playlist = ytmusic.get_playlist("PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR")  # Çalma listesi ID
-        tracks = []
+        playlist = ytmusic.get_playlist(playlist_id)
+        all_songs = playlist.get("tracks", [])
+        downloads = []
 
-        for track in playlist["tracks"]:
-            video_id = track.get("videoId")
-            audio_url = get_audio_url(video_id) if video_id else None
+        for song in all_songs:
+            title = song["title"]
+            video_id = song["videoId"]
+            file_path = download_song(video_id, title)
 
-            track_info = {
-                "title": track["title"],
-                "artist": track["artists"][0]["name"] if track["artists"] else "Unknown",
-                "videoId": video_id,
-                "streamUrl": audio_url if audio_url else f"https://music.youtube.com/watch?v={video_id}"
-            }
-            tracks.append(track_info)
+            if file_path:
+                downloads.append({
+                    "title": title,
+                    "download_url": f"/download/{title}.mp3"
+                })
 
-        return jsonify({"tracks": tracks})
+            time.sleep(10)  # YouTube engellemesin diye bekleme süresi
+
+        return jsonify({"downloads": downloads})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+@app.route('/download/<filename>', methods=['GET'])
+def download_file(filename):
+    """İndirilebilir MP3 dosyası linki döndürür."""
+    return send_from_directory(music_folder, filename, as_attachment=True)
+
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=10000)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
