@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 def get_top100():
     # YouTube Music Top 100 URL (örnek olarak popüler bir liste alınabilir)
-    playlist_url = "https://music.youtube.com/playlist?list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCa8QG"
+    playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
     ydl_opts = {
         'quiet': True,
         'extract_flat': True,  # Sadece bağlantıları almak için
