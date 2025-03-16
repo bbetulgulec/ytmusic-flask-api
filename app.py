@@ -1,72 +1,62 @@
-import os
-import json
-import time
 import yt_dlp
 from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-# JSON dosya yolu
-TOP100_JSON = "top100.json"
-UPDATE_INTERVAL = 3 * 24 * 60 * 60  # 3 gün (saniye cinsinden)
+def get_top100():
+    playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
 
-# YouTube Music Top 100 Playlist URL
-PLAYLIST_URL = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
-
-def needs_update():
-    """JSON dosyasının güncellenmesi gerekip gerekmediğini kontrol eder."""
-    if not os.path.exists(TOP100_JSON):
-        return True
-    last_updated = os.path.getmtime(TOP100_JSON)
-    return (time.time() - last_updated) > UPDATE_INTERVAL
-
-def get_audio_url(video_id):
-    """Verilen video ID'sinden doğrudan ses dosyası URL'sini çeker."""
-    ydl_opts = {
-        'format': 'bestaudio/best',
-        'quiet': True,
-        'noplaylist': True,
-        'extract_flat': False
-    }
-    
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(f"https://music.youtube.com/watch?v={video_id}", download=False)
-        return info.get('url', '')
-
-def update_top100():
-    """YouTube Music Top 100 listesini günceller ve JSON dosyasına kaydeder."""
     ydl_opts = {
         'quiet': False,
-        'extract_flat': True,
-        'force_generic_extractor': True,
+        'format': 'bestaudio/best',  # En iyi ses formatını seç
+        'extract_flat': False,  # Doğrudan ses URL’sini almak için
+        'noplaylist': False,  # Tüm playlist'i çekmek için
+        'force_generic_extractor': False,  # YouTube Music'e özel extractor'ı kullansın
+        'sleep_interval': 3,  # YouTube tarafından engellenmemek için bekleme süresi
+        'max_sleep_interval': 7,
     }
-    
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(PLAYLIST_URL, download=False)
-    
-    tracks = []
-    if 'entries' in info:
-        for entry in info['entries']:
-            video_id = entry.get('id', '')
-            audio_url = get_audio_url(video_id) if video_id else ''
 
-            tracks.append({
-                'title': entry.get('title', 'Bilinmeyen Şarkı'),
-                'artist': entry.get('uploader', 'Bilinmeyen Sanatçı'),
-                'audioUrl': audio_url
-            })
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            playlist_info = ydl.extract_info(playlist_url, download=False)
+
+        tracks = []
+        if 'entries' in playlist_info:
+            for entry in playlist_info['entries']:
+                if entry is None:
+                    continue
+
+                title = entry.get('title', 'Bilinmeyen Şarkı')
+                artist = entry.get('uploader', 'Bilinmeyen Sanatçı')
+
+                # Ses dosyasının direkt URL'sini al
+                ydl_opts_audio = {
+                    'format': 'bestaudio/best',
+                    'quiet': True,
+                }
+                with yt_dlp.YoutubeDL(ydl_opts_audio) as ydl_audio:
+                    audio_info = ydl_audio.extract_info(entry['url'], download=False)
+                
+                audio_url = audio_info.get('url', '')
+
+                tracks.append({
+                    'title': title,
+                    'artist': artist,
+                    'audioUrl': audio_url
+                })
+
+        return {'tracks': tracks}
+
+    except yt_dlp.utils.DownloadError as e:
+        return {'error': 'YouTube engelledi mi?', 'details': str(e)}
     
-    with open(TOP100_JSON, 'w', encoding='utf-8') as f:
-        json.dump({'tracks': tracks}, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        return {'error': 'Bilinmeyen hata!', 'details': str(e)}
 
 @app.route('/top100', methods=['GET'])
 def top100():
-    """JSON dosyasından Top 100 listesini döndürür."""
-    if needs_update():
-        update_top100()
-
-    with open(TOP100_JSON, 'r', encoding='utf-8') as f:
-        return jsonify(json.load(f))
+    response = get_top100()
+    return jsonify(response)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='0.0.0.0', port=5000, debug=True)
