@@ -9,6 +9,9 @@ custom_links = {
     "Şarkı 2": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742137979&ei=G5bWZ9aRCa3yi9oP8Le1-QE&itag=251"
 }
 
+# Proxy ayarı (kendi IP adresini buraya yaz)
+PROXY_URL = "http://10.0.0.151:8080"
+
 def get_top100():
     playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
     ydl_opts = {
@@ -16,7 +19,8 @@ def get_top100():
         'extract_flat': True,
         'force_generic_extractor': True,
         'sleep_interval': 5,
-        'max_sleep_interval': 20
+        'max_sleep_interval': 20,
+        'proxy': PROXY_URL  # Proxy kullanarak bağlan
     }
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
