@@ -9,7 +9,9 @@ def get_top100():
         'quiet': True,
         'extract_flat': True,
         'force_generic_extractor': True,
-        'cookies': 'C:/Users/gulec/Desktop/ytmusic-flask-api/cookies.txt'  
+        'cookies': 'C:/Users/gulec/Desktop/ytmusic-flask-api/cookies.txt',
+        'sleep_interval': 5,  # Her istek arasında 5 saniye bekle
+        'max_sleep_interval': 20  # Rastgele 5-20 saniye arasında bekleme ekle
     }
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -22,7 +24,12 @@ def get_top100():
             
             # Doğrudan oynatılabilir URL'yi çekme
             try:
-                with yt_dlp.YoutubeDL({'quiet': True, 'cookies': 'path/to/your/cookies.txt'}) as ydl:
+                with yt_dlp.YoutubeDL({
+                    'quiet': True, 
+                    'cookies': 'C:/Users/gulec/Desktop/ytmusic-flask-api/cookies.txt',
+                    'sleep_interval': 5,
+                    'max_sleep_interval': 20
+                }) as ydl:
                     direct_info = ydl.extract_info(video_url, download=False)
                     stream_url = direct_info.get('url', '')
             except Exception:
@@ -31,7 +38,7 @@ def get_top100():
             tracks.append({
                 'title': entry.get('title', 'Bilinmeyen Şarkı'),
                 'artist': entry.get('uploader', 'Bilinmeyen Sanatçı'),
-                'streamUrl': stream_url  # Güncellenmiş doğrudan oynatma URL'si
+                'streamUrl': stream_url
             })
     return tracks
 
