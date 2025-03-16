@@ -1,499 +1,497 @@
-{
-    "tracks": [
-        {
-            "title": "Reynmen - Çatma Yarim (Official Backstage Video)",
-            "artist": "Reynmen",
-            "audioUrl": "https://music.youtube.com/watch?v=Ku9vMdqalOk"
-        },
-        {
-            "title": "BLOK3 - SEVMEYİ DENEMEDİN (Official Music Video)",
-            "artist": "Blok3",
-            "audioUrl": "https://music.youtube.com/watch?v=n7iuaTlGbd4"
-        },
-        {
-            "title": "LVBEL C5 - HAVHAVHAV",
-            "artist": "LVBELC5",
-            "audioUrl": "https://music.youtube.com/watch?v=1tppzgR5ok0"
-        },
-        {
-            "title": "Semicenk - Gözlerinden Gözlerine",
-            "artist": "Eva Records",
-            "audioUrl": "https://music.youtube.com/watch?v=L3LSKvtxvZQ"
-        },
-        {
-            "title": "Ben Fero - BİTMİYOR",
-            "artist": "Ben Fero",
-            "audioUrl": "https://music.youtube.com/watch?v=hneQEAi2va8"
-        },
-        {
-            "title": "Samet Kardeşler x Sıla Şahin - Aldanırım",
-            "artist": "Samet Kardeşler",
-            "audioUrl": "https://music.youtube.com/watch?v=74MPLm3YcNI"
-        },
-        {
-            "title": "Kubilay Karça - Ayaza Serdim",
-            "artist": "Kubilay Karça",
-            "audioUrl": "https://music.youtube.com/watch?v=OkTRnHG2e6o"
-        },
-        {
-            "title": "ROSÉ & Bruno Mars - APT. (Official Music Video)",
-            "artist": "ROSÉ",
-            "audioUrl": "https://music.youtube.com/watch?v=ekr2nIex040"
-        },
-        {
-            "title": "Dedublüman x Aleyna Tilki - Sana Güvenmiyorum (Dedub Sessions with Aleyna Tilki)",
-            "artist": "Dedublüman",
-            "audioUrl": "https://music.youtube.com/watch?v=XGGXlj6grzQ"
-        },
-        {
-            "title": "Derya Bedavacı - Seni Seven Kimdi",
-            "artist": "Derya Bedavacı",
-            "audioUrl": "https://music.youtube.com/watch?v=5WPfj3Qc7Jk"
-        },
-        {
-            "title": "Melis Fis - Misket (Official Video)",
-            "artist": "Melis Fis",
-            "audioUrl": "https://music.youtube.com/watch?v=eW17THxYmNI"
-        },
-        {
-            "title": "POIZI & ERA7CAPONE - ÇIKAR BİRİ KARŞIMA I PROD BY. SNOW",
-            "artist": "Poizi",
-            "audioUrl": "https://music.youtube.com/watch?v=gRk7dbt17LA"
-        },
-        {
-            "title": "Semicenk - Onlar Anlamaz Halden",
-            "artist": "Eva Records",
-            "audioUrl": "https://music.youtube.com/watch?v=riwF4OyxKys"
-        },
-        {
-            "title": "Tan Taşçı - Yok Başka Hayalim (Resmi Şarkı Sözleri Videosu)",
-            "artist": "Tan Taşçı",
-            "audioUrl": "https://music.youtube.com/watch?v=Ae7iePAUV14"
-        },
-        {
-            "title": "Duman - Kufi (Lyric Video)",
-            "artist": "Duman",
-            "audioUrl": "https://music.youtube.com/watch?v=OtQyZyIqdXs"
-        },
-        {
-            "title": "Era7capone ft. Batuflex - CISTAK ( Official Video )",
-            "artist": "Lais Records",
-            "audioUrl": "https://music.youtube.com/watch?v=kYmjM2p_NUQ"
-        },
-        {
-            "title": "LVBEL C5, AKDO, ALIZADE - kAHpE",
-            "artist": "LVBELC5",
-            "audioUrl": "https://music.youtube.com/watch?v=NOyrTRdOM3s"
-        },
-        {
-            "title": "Tuğçe Kandemir - Aradan Çok Yıllar Geçti (Sen Nasıl Bir İnsansın)",
-            "artist": "Tuğçe Kandemir",
-            "audioUrl": "https://music.youtube.com/watch?v=Kk1_0uGNooc"
-        },
-        {
-            "title": "Canbay & Wolker - Düşmez Kalkmaz (Official Video)",
-            "artist": "Canbay & Wolker",
-            "audioUrl": "https://music.youtube.com/watch?v=_QBSCYRYbWA"
-        },
-        {
-            "title": "Gülden - Mendil",
-            "artist": "netd müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=PvuyrHQM4Vo"
-        },
-        {
-            "title": "Şenol Evgi ft. Gizo - ÇEK KAMERACI #çekbebeksitenimiçek #tiktok",
-            "artist": "Şenol Evgi",
-            "audioUrl": "https://music.youtube.com/watch?v=CWvlq2as8vc"
-        },
-        {
-            "title": "Lan - Zeynep Bastık | Lyric Video",
-            "artist": "Zeynep Bastık",
-            "audioUrl": "https://music.youtube.com/watch?v=-O22D3EV6G0"
-        },
-        {
-            "title": "You Don’t Know",
-            "artist": "Dedublüman",
-            "audioUrl": "https://music.youtube.com/watch?v=WRIfO4rT0Ig"
-        },
-        {
-            "title": "Burak Bulut - Ama Yine Sen",
-            "artist": "Baş Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=b0CjyyI-Kqc"
-        },
-        {
-            "title": "Melike Şahin - Canın Beni Çekti (Official Music Video)",
-            "artist": "Melike Şahin",
-            "audioUrl": "https://music.youtube.com/watch?v=1ZCbjmLOEO0"
-        },
-        {
-            "title": "Emre Fel - Sana El Pençe Durmam (Official Video)",
-            "artist": "Emre Fel",
-            "audioUrl": "https://music.youtube.com/watch?v=12C-Zglg7gM"
-        },
-        {
-            "title": "Burak Bulut & Serdar Ortaç - Yasemin",
-            "artist": "Baş Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=8C78sBminHs"
-        },
-        {
-            "title": "Reynmen - Renklensin (Official Premiere Video)",
-            "artist": "Reynmen",
-            "audioUrl": "https://music.youtube.com/watch?v=bmFaaLLF56c"
-        },
-        {
-            "title": "Ali Alkurt - Bizi Bu Hallere Koyan Biri Var",
-            "artist": "TYN Music Production",
-            "audioUrl": "https://music.youtube.com/watch?v=S3rBpDyC8ms"
-        },
-        {
-            "title": "LVBEL C5 - nE?!",
-            "artist": "LVBELC5",
-            "audioUrl": "https://music.youtube.com/watch?v=pI9rRex40Lk"
-        },
-        {
-            "title": "Ati242 - Değişmene Rağmen (Official Video)",
-            "artist": "Ati242",
-            "audioUrl": "https://music.youtube.com/watch?v=qBhhkRS-R3o"
-        },
-        {
-            "title": "Semicenk - Geçiyor Zaman",
-            "artist": "Eva Records",
-            "audioUrl": "https://music.youtube.com/watch?v=2ROyiaxw73c"
-        },
-        {
-            "title": "Ceren Sagu - Yalan (Aleyna Tilki Cover)",
-            "artist": "Ceren Sagu",
-            "audioUrl": "https://music.youtube.com/watch?v=cwzlu_SKZwc"
-        },
-        {
-            "title": "RAMAZAN GELDİ RAMAZAN | Abdullah Beyhan",
-            "artist": "Abdullah Beyhan",
-            "audioUrl": "https://music.youtube.com/watch?v=EBzUpeAcjhQ"
-        },
-        {
-            "title": "Murat Kurşun - Mardinli Güzel Yarim (Urfalı Güzel)",
-            "artist": "Seyhan Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=kZLpMsdgKk8"
-        },
-        {
-            "title": "Edip Akbayram - Aldırma Gönül (Official Audio)",
-            "artist": "Avrupa Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=QU1W_LVvKxA"
-        },
-        {
-            "title": "Kamuran Akkor - Ben Sarhoş Oldum (Deka Müzik)",
-            "artist": "DEKA Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=_NLOJCfSNxo"
-        },
-        {
-            "title": "Yener Çevik - #HüznüHecem (Official Video) ► Prod. Nasihat",
-            "artist": "Yener Çevik Official",
-            "audioUrl": "https://music.youtube.com/watch?v=W4npTHInyOE"
-        },
-        {
-            "title": "BLOK3 - ESC*BAR (OFFICIAL VIDEO)",
-            "artist": "Blok3",
-            "audioUrl": "https://music.youtube.com/watch?v=WXnRGJZBsIc"
-        },
-        {
-            "title": "Gamze Şeker - Ayşem (cover)",
-            "artist": "Gamze Şeker",
-            "audioUrl": "https://music.youtube.com/watch?v=69ule85hEkI"
-        },
-        {
-            "title": "Simge - Önümüz Yaz",
-            "artist": "netd müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=GILi_0RamtY"
-        },
-        {
-            "title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
-            "artist": "Lady Gaga",
-            "audioUrl": "https://music.youtube.com/watch?v=kPa7bsKwL-c"
-        },
-        {
-            "title": "ElMusto - Dale Don Dale (Official Music Video)",
-            "artist": "ELMUSTO",
-            "audioUrl": "https://music.youtube.com/watch?v=xEjOU731SFc"
-        },
-        {
-            "title": "BLOK3 - GELME İSTEMEM (Official Audio)",
-            "artist": "Blok3",
-            "audioUrl": "https://music.youtube.com/watch?v=IbxIumVgC8s"
-        },
-        {
-            "title": "Soner Sarıkabadayı - Mevzu Derin (Official Video)",
-            "artist": "Soner Sarıkabadayı",
-            "audioUrl": "https://music.youtube.com/watch?v=bWrb7yLdsEA"
-        },
-        {
-            "title": "Mela Bedel - Ben Değilim (Official Video)",
-            "artist": "Mela Bedel",
-            "audioUrl": "https://music.youtube.com/watch?v=rqa0KYdzoEc"
-        },
-        {
-            "title": "Fatih Bulut & Elmas - Gör Bak",
-            "artist": "netd müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=0ifEkZB6J40"
-        },
-        {
-            "title": "Bengü Beker - Sana Yıldızları Ödediğimden",
-            "artist": "Bengü Beker",
-            "audioUrl": "https://music.youtube.com/watch?v=edvfqQ5Mmx0"
-        },
-        {
-            "title": "Ati242 - Sönen Sigaralar (Official Video)",
-            "artist": "Ati242",
-            "audioUrl": "https://music.youtube.com/watch?v=syAlVbm_YQ0"
-        },
-        {
-            "title": "Wegh - Yanlışlarla Karşılaştım ft. Keskin (Official Music Video)",
-            "artist": "Wegh",
-            "audioUrl": "https://music.youtube.com/watch?v=GrA_x3p0RUo"
-        },
-        {
-            "title": "Bengü & Mustafa Ceceli - Kervan (Official Video)",
-            "artist": "Bengü",
-            "audioUrl": "https://music.youtube.com/watch?v=ta1clMMLreI"
-        },
-        {
-            "title": "BLOK3 - UYUZ (Official Audio)",
-            "artist": "Blok3",
-            "audioUrl": "https://music.youtube.com/watch?v=SAckf0Kww1g"
-        },
-        {
-            "title": "Zedi - Düşüşlerim Fazla (Official Music Video)",
-            "artist": "İstanbul Music Box",
-            "audioUrl": "https://music.youtube.com/watch?v=_5Sw4bgbk3U"
-        },
-        {
-            "title": "W&W - OIIA OIIA (Spinning Cat)",
-            "artist": "W&W",
-            "audioUrl": "https://music.youtube.com/watch?v=IxX_QHay02M"
-        },
-        {
-            "title": "UZI - NEON",
-            "artist": "UZI",
-            "audioUrl": "https://music.youtube.com/watch?v=LLwsjTk7Y9M"
-        },
-        {
-            "title": "Şahin & Zeliha Kendirci - Melekler İmza Topluyor (Hakkı Yalçın Şarkıları, Vol.1) - (Official Video)",
-            "artist": "Poll Production",
-            "audioUrl": "https://music.youtube.com/watch?v=6pszjgb6ZPE"
-        },
-        {
-            "title": "Bülent Serttaş - İkimizde Bilemedik  (Official Video)",
-            "artist": "Bülent SERTTAŞ",
-            "audioUrl": "https://music.youtube.com/watch?v=QfJBfh2Z7hY"
-        },
-        {
-            "title": "Funda Arar - Bağışla",
-            "artist": "netd müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=5f9rEZ8uSgs"
-        },
-        {
-            "title": "Edip Akbayram - Seni Seven Öldü (Haberin Varmı)",
-            "artist": "Seyhan Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=AEQhwCmQz0E"
-        },
-        {
-            "title": "Şebnem Ferah - Mayın Tarlası (Official Video)",
-            "artist": "paga play",
-            "audioUrl": "https://music.youtube.com/watch?v=26rvrza_Gmg"
-        },
-        {
-            "title": "Sedat Sayan - Ellere Düş",
-            "artist": "Elenor Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=UoZBowkr8ok"
-        },
-        {
-            "title": "Toroslu Yollar",
-            "artist": "Pikapta Raks",
-            "audioUrl": "https://music.youtube.com/watch?v=Ge8tbwUBI0w"
-        },
-        {
-            "title": "Dönsen Bile",
-            "artist": "Ferdi Özbeğen - Topic",
-            "audioUrl": "https://music.youtube.com/watch?v=FDbYon_jIag"
-        },
-        {
-            "title": "İKİ GÖZÜMÜN ÇİÇEĞİ FADIL AYDIN",
-            "artist": "fadıl aydın",
-            "audioUrl": "https://music.youtube.com/watch?v=lfjMR_UbTac"
-        },
-        {
-            "title": "BABYMONSTER - 'DRIP' M/V",
-            "artist": "BABYMONSTER",
-            "audioUrl": "https://music.youtube.com/watch?v=Zp-Jhuhq0bQ"
-        },
-        {
-            "title": "Kerim Araz & Sevgim Yılmaz - Senden Hatıra",
-            "artist": "Eva Records",
-            "audioUrl": "https://music.youtube.com/watch?v=2JDCJXVfczE"
-        },
-        {
-            "title": "Nebi Demir - Kalamam Arkadaş",
-            "artist": "Mahzen Fabrick",
-            "audioUrl": "https://music.youtube.com/watch?v=TwbZx7Si87k"
-        },
-        {
-            "title": "Betsy, Мария Янковская – Sigma Boy (Lyrics video)",
-            "artist": "Бэтси Girl",
-            "audioUrl": "https://music.youtube.com/watch?v=6ytmu8BN8iI"
-        },
-        {
-            "title": "Gizo ft. Şenol Evgi - Kanunların Hatunu #tiktok #yüzünegözüneestetik",
-            "artist": "Şenol Evgi",
-            "audioUrl": "https://music.youtube.com/watch?v=ZOHUKVK6Izg"
-        },
-        {
-            "title": "G-DRAGON - TOO BAD (feat. Anderson .Paak) (Official Video)",
-            "artist": "OfficialGDRAGON",
-            "audioUrl": "https://music.youtube.com/watch?v=o9DhvbqYzns"
-        },
-        {
-            "title": "Jeff Redd - PSYCHO [Official Video]",
-            "artist": "Jeff Redd",
-            "audioUrl": "https://music.youtube.com/watch?v=eBNXDBpp9DQ"
-        },
-        {
-            "title": "Maya Perest  - Yok Bana Bu Cihanda",
-            "artist": "Sony Music Türkiye",
-            "audioUrl": "https://music.youtube.com/watch?v=P4Zi_own3W4"
-        },
-        {
-            "title": "Sezen Aksu - Kusura Bakma - 45'lik (Official Audio)",
-            "artist": "Sezen Aksu",
-            "audioUrl": "https://music.youtube.com/watch?v=2hPNYeXf-AY"
-        },
-        {
-            "title": "Saki",
-            "artist": "Sıla Gençoğlu",
-            "audioUrl": "https://music.youtube.com/watch?v=y035E2kzLYM"
-        },
-        {
-            "title": "ERA7CAPONE - DURULDUM l PROD BY. KERO (Official Music Video)",
-            "artist": "Era7capone",
-            "audioUrl": "https://music.youtube.com/watch?v=0IX0oQN0R2o"
-        },
-        {
-            "title": "manifest - Zamansızdık | Music Video",
-            "artist": "Big5 Türkiye",
-            "audioUrl": "https://music.youtube.com/watch?v=TWo7ktEPxSg"
-        },
-        {
-            "title": "Seda Tripkolic - Gözlerinin Yeşilini Özledim (Offical Video)",
-            "artist": "Boğaziçi Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=NE3x_sct784"
-        },
-        {
-            "title": "Ebru Gündeş - My Feelings (Lyric Video)",
-            "artist": "Ebru Gündeş",
-            "audioUrl": "https://music.youtube.com/watch?v=5kpmHEbSBeM"
-        },
-        {
-            "title": "Damla Arıcan - Giderim Senden (Prod. Yusuf Tomakin)",
-            "artist": "OfficialYusufTomakin",
-            "audioUrl": "https://music.youtube.com/watch?v=z48oV3jShTg"
-        },
-        {
-            "title": "Kurtuluş Kuş  & Burak Bulut - Bundan Gayrı ( Live Bostancı )",
-            "artist": "Kurtuluş Kuş",
-            "audioUrl": "https://music.youtube.com/watch?v=kLqpZv_5PX4"
-        },
-        {
-            "title": "Ahiyan - Doldum (Official Video)",
-            "artist": "Ahiyan",
-            "audioUrl": "https://music.youtube.com/watch?v=Z9TJrlpYEPU"
-        },
-        {
-            "title": "BEGE X REYNMEN - HER GÜN AĞLADIM",
-            "artist": "Berkcan Güven",
-            "audioUrl": "https://music.youtube.com/watch?v=sK7BP5gbCVE"
-        },
-        {
-            "title": "Sabahat Akkiraz | Bergüzar",
-            "artist": "Akkiraz Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=P-G0V8cGAT0"
-        },
-        {
-            "title": "Gizo ft Şenol Evgi - İyi Ki Sen #tiktok",
-            "artist": "Şenol Evgi",
-            "audioUrl": "https://music.youtube.com/watch?v=V4xrKpVO5CA"
-        },
-        {
-            "title": "Korkarım (Ahmet Kaya)",
-            "artist": "Ahmet Kaya",
-            "audioUrl": "https://music.youtube.com/watch?v=EzDdZWKdAEI"
-        },
-        {
-            "title": "Atiye - Salla (Official Music Video)",
-            "artist": "Atiye",
-            "audioUrl": "https://music.youtube.com/watch?v=g_blQfiUSuo"
-        },
-        {
-            "title": "Giz - Bu Ne Bela [Official Video]",
-            "artist": "TFB Records Türkiye",
-            "audioUrl": "https://music.youtube.com/watch?v=eyTXvqTNGA0"
-        },
-        {
-            "title": "TARKAN - Dudu",
-            "artist": "Tarkan",
-            "audioUrl": "https://music.youtube.com/watch?v=SCZgGVqVsbY"
-        },
-        {
-            "title": "Bengü - Heyecan",
-            "artist": "DMC",
-            "audioUrl": "https://music.youtube.com/watch?v=yWd5_IOFuco"
-        },
-        {
-            "title": "ZEHİRLİ GÜL",
-            "artist": "Blok3",
-            "audioUrl": "https://music.youtube.com/watch?v=Jli8HmCwcUM"
-        },
-        {
-            "title": "Melike Şahin - Gönül (Live @Harbiye 2024)",
-            "artist": "Melike Şahin",
-            "audioUrl": "https://music.youtube.com/watch?v=b8cxsHZHiP4"
-        },
-        {
-            "title": "İsmail YK - Bas Gaza (Official Video)",
-            "artist": "MuzikPlay",
-            "audioUrl": "https://music.youtube.com/watch?v=v74wiK7DY0A"
-        },
-        {
-            "title": "NUNCA MUDA? (Slowed)",
-            "artist": "ScytherMane",
-            "audioUrl": "https://music.youtube.com/watch?v=ZiDAbh5hY48"
-        },
-        {
-            "title": "Burak Bulut - Özür Dilerim",
-            "artist": "Baş Müzik",
-            "audioUrl": "https://music.youtube.com/watch?v=WX0g3F7PD0g"
-        },
-        {
-            "title": "LISA - FUTW (Vixi Solo Version) (Official Music Video)",
-            "artist": "LLOUD Official",
-            "audioUrl": "https://music.youtube.com/watch?v=r5VRqWkFpEQ"
-        },
-        {
-            "title": "Kayra - Mesela Yani",
-            "artist": "90bpm",
-            "audioUrl": "https://music.youtube.com/watch?v=2Qaeoq3p10o"
-        },
-        {
-            "title": "Heyecan",
-            "artist": "Serdar Ortaç - Topic",
-            "audioUrl": "https://music.youtube.com/watch?v=cndOrAGSVQI"
-        },
-        {
-            "title": "Mühürledim Seni Kalbime (Bir Hadise Var)",
-            "artist": "Hande Mehan",
-            "audioUrl": "https://music.youtube.com/watch?v=8Zi-iWjyk-w"
-        },
-        {
-            "title": "Sertab Erener - Bi Polar (Lyric Video)",
-            "artist": "Sertab Erener",
-            "audioUrl": "https://music.youtube.com/watch?v=BwLVgcf5EJw"
-        }
-    ]
-}
+[
+    {
+        "title": "Reynmen - Çatma Yarim (Official Backstage Video)",
+        "artist": "Reynmen",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158208&ei=IOXWZ4TMAcqli9oPipvtiAU&ip=81.214.249.150&id=o-AFE788nOE96RoRuEL0udkxMEdNKYel62XsaXrvscZVVC&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136608%2C&mh=VE&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsr&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1692500&bui=AccgBcPbopbIWd-i66RO2wPYU-m-xNAmzirjTgxrNuCg1-8Gm2bfncemhs6bFCd5zpQRtnyFs_4LY85c&spc=_S3wKnMzRpIf46j9hnDHDkOTs_D_KlytxBI5ZySVDRyoGyqGDFmgQ4g7&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3126911&dur=185.301&lmt=1739613217578005&mt=1742136059&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhALuHtL7EU2mNfVTvAGA430NJUuLZ-ZX2aKc21HfombvPAiBBZ_9amDoP387W4XumZ9eEumrGglDHOjlQ01svRRjkYw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgLJm9ukyEhfTsiPHYV4e7nj303fCQWL2BwoZzpyCpv94CIE-jOvX7rgD416A5zh1T4jCHqOukhPnpKXDV6M0yftVS"
+    },
+    {
+        "title": "BLOK3 - SEVMEYİ DENEMEDİN (Official Music Video)",
+        "artist": "Blok3",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158211&ei=I-XWZ5HtGMqBi9oP7NbNwQI&ip=81.214.249.150&id=o-AGpXvSGDV-xAXcafgFSkxe3uOw3YcqlzE24u_Ugk1gu0&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136611%2C&mh=TZ&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1692500&bui=AccgBcMcIoBl_gkPVnnT9DMLu57mmO7oGmIaIPwkTTOs4dOQPBbkSN3eRZ5Gkz4PS9O-95SVAPQa6W-Q&spc=_S3wKnkIMeBQPyxikcl6Y68HbNlwkgjb2PlT3SnwYAp60KOH6BkNo6fd&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2953243&dur=171.621&lmt=1736226253143295&mt=1742136059&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAO8Hr4YbEenUIphZ9cjrujEzD5Df8vcmT0cUwvQGOORnAiEA9d9qC4RqCuf6bcHidJs-s0xy6EpvlxYhi8ybGm7C2tg%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgevseBKfuh7rqnAS5wZehHJUjTe5kGHtQbQ1yTtu_VAcCIBB5UWGZ585K2hRcTY406KOlNbHBUPPvLe_lVbu8WVfZ"
+    },
+    {
+        "title": "LVBEL C5 - HAVHAVHAV",
+        "artist": "LVBELC5",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158214&ei=JuXWZ_H3IOTQi9oPgPjEkAs&ip=81.214.249.150&id=o-AGdyv8wzjXff-Uq206YCOi-6NIbfhPxgP26r9xHH3Glc&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136614%2C&mh=V3&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1677500&bui=AccgBcM4uD-_OakV0ISErGweyfRoxdrNuVdLwRH9vMjFfiAnDt-ivHrcoKgpIUM6Q0kEAvWbWq1whbmu&spc=_S3wKqBvgwz8Hx0Xcto_8YkHnnWr_j9itgKXK1JhcwoRIBtj_riL7rze&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2336652&dur=126.301&lmt=1738436783471416&mt=1742136059&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhANImjlOSuJOBSMVWWlfRWXUEWgLLmb6F6vxF3LEDdz-_AiAeYYhk6xF1__2pRnWXg5kKgMSOtJmbHVuN_8zoF7gbvw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhALBjWGx_VGq1eEfAajwvGWVBRJG3suKsgjps18P5u6HEAiBTZ5VUKyUYhcWH695ESeFbVV94h1w-G3AlmOcGEP8-MA%3D%3D"
+    },
+    {
+        "title": "Semicenk - Gözlerinden Gözlerine",
+        "artist": "Eva Records",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158217&ei=KeXWZ5C_K8zTi9oPwuvjYQ&ip=81.214.249.150&id=o-AH8WDmT76vUobDpbi49AJLGWrcfX1etDyzQGCFPMrNhD&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136617%2C&mh=Xk&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcNheqLwCVdhcJk-mHcsWBVIKocyrqkckEqYzsC5qX5-EZJraBT9eTJHF2mibQp1x9XfTz4lVXk_&spc=_S3wKjPCCtUAx6sRZD3KshsgWie0dBtvouyiBo0VUY4wC59TzI7LDJFi&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2894017&dur=176.101&lmt=1739592334331072&mt=1742136059&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOno-w87GpCzPsEldsHCGGSPVJJpq-21HSwqO6-_FImoAiBMBS7Y3X4bx9amrouOPwbyMaloKUWbq12_dnE6jDdqNQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAPYC8itM7J0Xh6WR3LQ-rUKVomZCQr-rPy0uY28NwXyQAiEA634tfXaMWpC-ylWix-RCC8s-Jvt6YZUiaZjE3R38-DI%3D"
+    },
+    {
+        "title": "Ben Fero - BİTMİYOR",
+        "artist": "Ben Fero",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158220&ei=LOXWZ83gOLPn6dsPs_vckAo&ip=81.214.249.150&id=o-ALjb-CJDg4ibxiGZLaw6gtzInhZlV-m_S4M3P6iZHUU6&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136620%2C&mh=Id&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcNYl5cdF92JB8D8pD4ZWXNTyHhIcgMLgUbMshAfMoikvJ8CtIyfbVE-7aimUPAXXx7dnQo6X8WE&spc=_S3wKsTqY2YbfkrKsLSprFTbTKkis-VEiuxTUoWSlLUI4oxtSc6Pqi4V&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3767123&dur=204.661&lmt=1726273380066932&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMjRfQDSy85LBC6yN9zm8jrDaW2CauP0v_yaoW5IC6sVAiEAmHc9ckHOCSrL-g4Aehe2sDPl8YjScp61UN_ZwUptGAs%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgB60MD2GZNoW9g7REjHBZRCZF5HM0VnJWLNfp33ANJnACIQCdkfO4t62HoPUCjCoaARRsiLGA5BCNzTT2vUPRANgRWg%3D%3D"
+    },
+    {
+        "title": "Samet Kardeşler x Sıla Şahin - Aldanırım",
+        "artist": "Samet Kardeşler",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158224&ei=MOXWZ_aOE_rsi9oP3ZmayAM&ip=81.214.249.150&id=o-AOAOAAdjgB1qLjHXvaR6ORNsCckQgf8iHNekOVr0z2J-&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136624%2C&mh=iY&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcOaLO7XVeBJHhN7TEbNgXCz5amdiKrYJ2A4X-Gr4BoMM_XwxYYwF0uXgRm1DVglIAmJySdbkLa7&spc=_S3wKud2p6ylSDNqA4a9M5eT5CCuM-0qZumNL0RabaFCmPTfouDrvyVH&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3304273&dur=198.381&lmt=1739226930698892&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAKEcDSbRmBp41i51Q-4RvkG7UC_rftdpeALRbG2E9K9aAiEAhnK-Zk7dBa4QWDGGeJeLZrDWwNGUYJJLBmpXz-wCur8%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgNRqEXxyVkWpc6ifZMs8S5_vcoJhtqpSA5CE6jpJQz4wCIDrjMjnz4jxViLu0LpPosdlv_PNsCLl3c0cPJYvFMPjN"
+    },
+    {
+        "title": "Kubilay Karça - Ayaza Serdim",
+        "artist": "Kubilay Karça",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158227&ei=M-XWZ_2WHKb-i9oPvMyPwQE&ip=81.214.249.150&id=o-AI_6gJwegWL6Jc-Vo7yNIlIoivcEzGrgh7NuG2YAGmkG&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136627%2C&mh=PF&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsd&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcME88LNpGZnyA2LHxTfLjSCpv0VuW831dAiCvDFejWOoKMkNdYPVjotAO21EWrYOX7bE-maOSPq&spc=_S3wKido3m-vDuplYA0EGt7loVcf-RjVBbFo-MIuJkLc_-eSxL0-Gu9e&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3885924&dur=218.281&lmt=1738045600685640&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgOQ79AP9ehnTvJ5rfZw4L-9NqvOY6ejzMNR6RY5HQntUCIHDFhfVnLLVGWWhQQ4EArGtGx3i3ln92Ppyx7lKnsEx_&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgJUERn3T0RmF2l1fM167ndR7qO9jgfRGF6FSMcaBIJ9wCIQD9prPe9RJRzxcrcX2FED2SK16ai57HmcSd6pEf2fIVhg%3D%3D"
+    },
+    {
+        "title": "ROSÉ & Bruno Mars - APT. (Official Music Video)",
+        "artist": "ROSÉ",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158230&ei=NuXWZ769J-nGi9oP0KrhQA&ip=81.214.249.150&id=o-AHONhcZ2_05QbLnBtfixeJR_QDATfIAl9pnTIUCiXs_i&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136630%2C&mh=7E&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1677500&bui=AccgBcMcejyvAs7LPflYMzd-aGfl5GXyNYV7G45VZuAwJsN6NFEQYTlugOpMAcWTKOGBlncHnR-3o-Yf&spc=_S3wKhi4-DGFUWPrfhx8tawYPTcbrOCgSx6eiVhmqu3uZV5RIgOD4Yt4&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2710676&dur=173.401&lmt=1729642612123602&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAPYS6whJRFubDK5zR8kW4V5nv-8Dfe0VnFZ7UHu_TeWiAiB7qIQVECuFhQhc4jBWjFTcal9l6u6Su9x4zB9yt-fXVg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAKzamnWl7Jcz8W1x8uTGXHJN-u7q9-M0HtzxeUpYL04PAiEAy8ktR56GrKrC3QHCfv0zoH7i_E5px_7G2HQpRlTo65A%3D"
+    },
+    {
+        "title": "Dedublüman x Aleyna Tilki - Sana Güvenmiyorum (Dedub Sessions with Aleyna Tilki)",
+        "artist": "Dedublüman",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158234&ei=OuXWZ7vfA6aCsvQP2u6VsAE&ip=81.214.249.150&id=o-AP53WyDV0kiif___CN17obtoJndgYXup6r1KUDTeNfIf&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136634%2C&mh=Sw&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lns7&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcO6D4TL8EOvcA3Igu2RARFzJJxaD8XNhFV1LFJNTgTyNkWJSj3cbPKEDBjaQA484L-_393wZgQx&spc=_S3wKtsiyIai3ja_6K51IJS30F6erTVzc3pN_yRhygkzycIIyicAYXh2&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3426612&dur=215.501&lmt=1736893911126577&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgB50fyAOFVnl_i04AqNTfupeGqVz6AYmSXgPSASM71bYCIQDS7zRfDZOrG7ChFT4TSE4x_X8t0Kdcs8jHtAFOpT5xQw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgGXr-Fg3QhhKgBHQFfj4giLXBmnuKc66dMQ3Xz5oqTIICICdPQ3CxE0NoygYN_6BMAw1hISoWiV2viq_BVLGylSRn"
+    },
+    {
+        "title": "Derya Bedavacı - Seni Seven Kimdi",
+        "artist": "Derya Bedavacı",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158237&ei=PeXWZ9ntJMTui9oPoY2jWQ&ip=81.214.249.150&id=o-AI6W6rkI7qwe1NL9UGbvhhup_--v9n71rqdCjXm5Cdp8&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136637%2C&mh=AC&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1677500&bui=AccgBcPsQ0ybbv9rNK1Kcj8zxGJ-7mVGgxCBhUuT7Q5R1hnGxDAB6ZFtgyEzrf7tWX6kbd8GMhFDITSk&spc=_S3wKhZKSS0HBzQpqtNJr3QN_cBNUXVjlpLmfzmw17Jger3q_jVG323M&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3946046&dur=237.261&lmt=1731925920066003&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgLz0f-zBTzVaOlND2C7bjcX7ty-2rXVKidaps9iccfWwCIGGinjw_3Ca45PmaWtDokznrHpPMzygVfKoZWwxxqHw7&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgJYr_dn2v6lJ9tdHFpf4kh4CQA-f9GNhcCvj12kSDSrQCIBQY0RCWqOOzGPTsMtT2moA4PYYSHAdqOhZqvjmjXR4I"
+    },
+    {
+        "title": "Melis Fis - Misket (Official Video)",
+        "artist": "Melis Fis",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158240&ei=QOXWZ6PmNbXNi9oP-O69yQM&ip=81.214.249.150&id=o-AJqhcYknpoCGMQyvpTfstflY3RvnbCISLJVC8nkKKNpN&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136640%2C&mh=8w&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1677500&bui=AccgBcOff6dE5FjRDLrV9ZfOpFUWEm_DkAOdFwfp5YdNYZgqlmCSTuUWjMitD2uQHNUPt_xkqTstEyjL&spc=_S3wKkinCPM4N3yuCUCDLApd-L8AQJPOsx6fGyrpvBzlIIkC5atkl46M&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2759197&dur=169.901&lmt=1740448836465196&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAKK9yDWLmiqQE1ZTKiWIHecXgFBNtIJ-Nyu60g3eYz-_AiADY9hSEXenjst6WLzeOJiXgi5Kk-7nlSOS0Vy9q7geDA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgQqnemNM3lR8aKEq7Y-RnNe0DgP5HYH6anP0rkJJUW6sCIQC3eu8RJ5inqqKpGWOF_fBrxR0LJvFz1PSV_Q6f39kzLw%3D%3D"
+    },
+    {
+        "title": "POIZI & ERA7CAPONE - ÇIKAR BİRİ KARŞIMA I PROD BY. SNOW",
+        "artist": "Poizi",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158244&ei=ROXWZ8q3AcmRzPsP5YeYwAc&ip=81.214.249.150&id=o-AA41o_8C1LtisRwPalAJZUDKC2OfDcRfNhroegGC3Qiv&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136644%2C&mh=La&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcO5XU2grUQAC2ygulZzi9nbrj_41UlmrvDVqwpMMk5fOzvA-b1nlAzYBve2XWlriuF3RLC6qxo-&spc=_S3wKoy8_UTT4JNtEWyznMn59Fc-9UsdLQUMFoQnBjxvFBHCRg1ZVo_f&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2938643&dur=170.901&lmt=1741525030759294&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOXWFT3ZB563xBAk1tcOfSjqvBdpzYwzPpZGmeaet5RMAiBQxL88rnU1ogr-ohhgnaN9l5bFX21A2tf4aOXJpLTm0g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgD5yxWHKlDP8dE6s_v0oZQ52Qd6ZcsTETsKQBAWwU2RICIHNzvr2RP4zj6W9vag3nkoELTcxJZXPuS7nLkFSNyXyN"
+    },
+    {
+        "title": "Semicenk - Onlar Anlamaz Halden",
+        "artist": "Eva Records",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158247&ei=R-XWZ7rtEo6ni9oP86y2sQQ&ip=81.214.249.150&id=o-AA8oHoQ2Vh5IuLWm4kD_fmtitH8GAnh5yanKcN3Kjygt&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136647%2C&mh=uD&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsy&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcNKdTARgWDUoQbzcM8tTqDtdwLa3KpnFE9vxR2njTK6PhxWOQNhY1snr0P1y6SBObGdPZwHfqsT&spc=_S3wKqWg4nPzEjj9KLWkybB-hL6tRe36WQ1ezhysbtiJ--8FbLOY1lW4&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3009063&dur=173.541&lmt=1726314420134990&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhANHTNzigvJb9sboyD8M6UcgmL74D9tcihNnaTP62Auq9AiBYLAf5gZTfu9jeYC2_ySiidUGU4Ny32V36EjGK2BzIOA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgJ97U4YvLF0aLDdYnX8vUJCsHgM4M93Kqr2T4s5qypEcCIQDiycReN807Has_64Blz04Y0mgLYl7KtXsoz0UvS0nd-A%3D%3D"
+    },
+    {
+        "title": "Tan Taşçı - Yok Başka Hayalim (Resmi Şarkı Sözleri Videosu)",
+        "artist": "Tan Taşçı",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158250&ei=SuXWZ5rXK73Gi9oP0qGXmAU&ip=81.214.249.150&id=o-AH2h5gfSsW5ynXE4EwWe2IIolzmZsTXTGu8gYZzMlNeE&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136650%2C&mh=eN&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcMWsjy7XD4ebFHiOi7fhRLoecV4QiR63PdNvJxXECQdOemQ_hmx3RdQCbDAvPZetRMVcGnR2D6j&spc=_S3wKpcQvvEK88KaPV4ISN3AG1lnR91IovMTtd7EV4HpN80cmZDHAxAe&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=5324148&dur=311.021&lmt=1736887620285487&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgQ0oQXtFP2YHMgq6t8NWzHtkE5vrYIZbmpxSLgqCAae4CIA5R3CMIoBJTPKHf04MSBE3ON8iY31ocXiEWlPK469ar&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgTQKdM311rIzEdmR-MWW4pHBIc73Uu5qmUMFiiZm0TpACIGvncX7h5DdMpuyagk7cz74x2_kMcoqsQoehRQ2HYJqs"
+    },
+    {
+        "title": "Duman - Kufi (Lyric Video)",
+        "artist": "Duman",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158253&ei=TeXWZ_6ZNoeGzPsPhb3GkAM&ip=81.214.249.150&id=o-AGKtCTFgy_ZmNN1I-bDNrAfnJPKODa2nNVBPbsM1BQ_g&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136653%2C&mh=k1&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnly&ms=au%2Crdu&mv=m&mvi=7&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcNALGaXKKThrgxWewp5rGH0blduYFM431ycVYUWbXt_YKwGOW-YOMjkzdDh5lZFxJKevuOjjBSV&spc=_S3wKmbIYfcgFVThLEuZernWtMuIpldfZcdmuCVtbZ6DPtsijsYC89qX&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4214820&dur=265.361&lmt=1728701969587510&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhALCFP9OuUvZyJTe8_NZd5ydqUAfmgtnFNNpw7oqMHCkVAiEA5-_nSVUWVuzUdtSw-EZlvJSx-wRc05Zjc_9OuhTsQPk%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAODvUS6JG-6wt-MyV5pbVyyVa1-tYnaOGEQzgPhrcXwqAiBzs0_w0iksODkyVKq6RNix0cRSdI4Gb-88e1R0t_ERuQ%3D%3D"
+    },
+    {
+        "title": "Era7capone ft. Batuflex - CISTAK ( Official Video )",
+        "artist": "Lais Records",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158257&ei=UeXWZ5KIDYWcp-oP55etwAs&ip=81.214.249.150&id=o-ABu3RrncmBFXWlx12FKyOC64Ss8e8aOUQmtALQVFBRO8&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136657%2C&mh=-2&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zn7r&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcOJb6LeScVzhSdz9cN8RFYMQYYAU33dS16U3xNGF5FCqUbmhvAu3NT9D6XPWt86L8gha5MOHkBY&spc=_S3wKjHB5uWe7a81B4-644w6yxe2ON48Fg3wGusBAAqsx0q6GvY8m-lI&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2281254&dur=139.701&lmt=1739055036140659&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbFK4D3uy4Hi1uPfihEKRmH-lc42h5rKg1oY2j4-8ABcCIFxWKGxyeESRdO5JOFt9lkEAG4vbmUKxcBaZrHabqCuD&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgSNgX5r-1DdaUpeI7FOAZ9Cf2Dr_hylJz3mKwmBItEnoCIQCYpTXl54BK-rTEWcyY_MIMUgTuuhjYbzHhE5vz_g2fIg%3D%3D"
+    },
+    {
+        "title": "LVBEL C5, AKDO, ALIZADE - kAHpE",
+        "artist": "LVBELC5",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158260&ei=VOXWZ_m2HYbQi9oP8pH7KA&ip=81.214.249.150&id=o-AIYn4KZ_5ZyFSRNYw2NHxso3cudN8kDaEysE9m9mjDHg&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136660%2C&mh=S2&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnly&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1677500&bui=AccgBcNKO3TkBAJKiQQKd_0rT8Ael1GFH0CZ9JPat9EFKv4qAAkeeOTQdJM5f0ufT1C85QlSRq0kYmnT&spc=_S3wKkz1RU4-d9JwHvq_LeDEJVZ5dcMPc4Dw5S95dB691xt2b9Lui71L&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2539175&dur=141.261&lmt=1740722792285199&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAPy_OCcuzOfBItwp0xYTvG--Vuw-U4ydOsGz5NjN3D4zAiEA6gmYpcxnvRN3SmHFGruBmjlnigwnCg9wYkSIbbqcRKs%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgLZtYpWVZ_-KXqi-e4qx7iOKjGkotHq3zPSyD5PBoV6QCIQDDND13MNTwagUByuN5De7lsYR9pcXETyJgJgexAhfWwg%3D%3D"
+    },
+    {
+        "title": "Tuğçe Kandemir - Aradan Çok Yıllar Geçti (Sen Nasıl Bir İnsansın)",
+        "artist": "Tuğçe Kandemir",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158263&ei=V-XWZ8_GKJnKi9oPzObmwAo&ip=81.214.249.150&id=o-AIQ_S1WHJ2kEjW_918PXFKRlyvxplQcHLa2keIz2VdPV&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136663%2C&mh=3w&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1677500&bui=AccgBcO7Qn5o9_RLo3I2EC3uSebRvpl03VywNALLvrzSYOgAkWGHnswKu9owYQJdKzqZJhwdSWSfmg5d&spc=_S3wKqgJbQhkpl1f0LnU3oETa17-YFxQWuuJkO3VHf0wQvMpfNGEEEv8&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2968624&dur=170.281&lmt=1726431364595659&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgSF2lZTOE1OtG9G5NhFZScW3QTFRCGXRrDJrRyqep82sCIQDJiTWvt4GDbqStKKcS1-KPNtdu3Ur0wNftmtWHaQOjbQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAKw2b5u7idzAk1Y-bPllUh2ElUPuXtDFQcJgI1F7jSoOAiEAsRgjVhDSbPewZL284Q3VTucW8MBRLa2EW2fcBvu34iM%3D"
+    },
+    {
+        "title": "Canbay & Wolker - Düşmez Kalkmaz (Official Video)",
+        "artist": "Canbay & Wolker",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158266&ei=WuXWZ_z6OaqjzPsP5bKruQw&ip=81.214.249.150&id=o-AMJnxTzEnV79QrpHtl3GhemD0lQoatoSEqqeXUBZMqik&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136666%2C&mh=gH&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnly&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcP85ctT2Y9Hg-ICh7PfAjUKMGMQclEUWlm6e5sBGRs0dvjlbWVtmdiMw9Wy_PJo2_7UV0xyTTGc&spc=_S3wKvA6BhbRCCVz1FAP1XU7QfwpfSwKtlleLvpKm9Op2uGyj0TjIpcR&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2699862&dur=166.381&lmt=1728130903920553&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAP8qu5MWPxP7LxQNVOen8cke4m906f0wbXwtYNUuPB26AiB8f2eZoD-EZBEJ8jjYopZqPEYOov7q4jl-MmVploO1VQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAPqcA6XZ3DK2O0WIaGva3GGE6W7-wIlqAjr8aAv9TaVzAiBgFZKpWsFUkpkqkBj3DxOEpVey3_qQM_o8_nDb7SXhZQ%3D%3D"
+    },
+    {
+        "title": "Gülden - Mendil",
+        "artist": "netd müzik",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158270&ei=XuXWZ43zEomYzPsP8PGS0Qo&ip=81.214.249.150&id=o-ABGH4cB09zgOjoEm0OVRAbcZMIvxXeFU0hlrIq5F0NZj&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136670%2C&mh=dw&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcPwGURFihdEQWG8tQaHiKi6ON8EUusHAc21VdgCabYO6N-_dExUtGrMQZk-4DkF82GZExMc_xfY&spc=_S3wKnZqcSbfJ4YiwOGUH02MTnzllcHU4QPLkDk_hBESwKxgVsKmHulx&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3909313&dur=234.261&lmt=1739939662040727&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAP5gFIfXNPmRwS2ML9C452REFs-Idu_dYYe7YPJpWZjwAiEA0sVjNGeSTrjll_2PIXPhf2v2CA8YSJUGAR-CO8Yy5WI%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhALm5w8FuYUpjfcKnM3Jgtjt48pgIiHN4SHXdqy3Iq-DYAiBa2rn-bLe3ZwS5BJcSHT9Op_P5iXiwM1_MdbPWGU1IwQ%3D%3D"
+    },
+    {
+        "title": "Şenol Evgi ft. Gizo - ÇEK KAMERACI #çekbebeksitenimiçek #tiktok",
+        "artist": "Şenol Evgi",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158273&ei=YeXWZ7bMH7rCi9oPybG5mAI&ip=81.214.249.150&id=o-AFeU-utfcVkI3YCo8kHxhL0POJp9rmFSf4w4a0ChLHyn&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136673%2C&mh=J5&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcOFHAckYyw2WJDw9aLcpRG35gJViqER7B0QesdxC3NzN7Rn03kwtHwq2HBgnwrw9_TTqQ85GZ7i&spc=_S3wKrSIw2aRzVvXE2WmlLL42MGrAzGubiS0gGP1578gaU6vpit0G4pn&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2014161&dur=123.901&lmt=1728731056091245&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhANyTNP9hAD3WtF0He3AHE-I9wnk6WAkV4W_KIvpKQy9PAiEArtytC81VDgteTBCngkrh-A0v9QHqAbmUi3debaBFhXg%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgYTgdi7rtX-PN18pAdoIKQm8bCVBRbGCWf4HjLdBEboQCIQDWKThYbaayGA0CiDyCjVr8uMxuiyrTXetrpPrqGRz1Bw%3D%3D"
+    },
+    {
+        "title": "Lan - Zeynep Bastık | Lyric Video",
+        "artist": "Zeynep Bastık",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158276&ei=ZOXWZ73DN6ucp-oPoL_E2Qw&ip=81.214.249.150&id=o-AP-B2T37eiJCtAO6q8F58kksRhXQkqT9F7CpdYGm6tQl&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136676%2C&mh=Mo&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcPGDJgU32A-KYJb8017ZuB9QLKGUzEsDT6IBFWsHKNQbBZjKJ88Q-t8Z1vbZzfe8ahycUOcRiGH&spc=_S3wKvnp7_QAeJB7_M2H2IqInHmsa7SIl_17Iu1FdHAYW0Yqt6-r_anb&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3416996&dur=199.381&lmt=1726439197666819&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgXykTPRoaxIR-5IOXGgfd7Zj6v1De9KNRh7bPuG94v4cCIHTHUv6vKooINPAzCVqt9WPSgOyD_i97Lu1DjDsrJ28B&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgbMuvO-Zr6ZOjL8vQjrcKU9DJcyZxxUK7-iV7-Z_bsoECIQChD4AmphVKv1g0TX0Zon-3H6NiayAVsfbgnAQ-e3ewYw%3D%3D"
+    },
+    {
+        "title": "Dedublüman - Sen Bilmezsin (Lyric Video)",
+        "artist": "Dedublüman",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158280&ei=aOXWZ6utEpv1i9oPmImt-QY&ip=81.214.249.150&id=o-APIi4zgqCKpGzUroYdLNsBsHURRmK-ZHbINXQPVjpEgE&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136680%2C&mh=X8&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcMB1GbxaaxmKrJDAh5fkwwDFLCr39JBueh50EpMBuUPCeZb2bZyX0Sz3rbW_V9wA7i5nlaktJzX&spc=_S3wKq2Y33nqKDUfdMA8DAxiU7IwDAeFs5p2rxBa8SnGZ9SlUr7enFd_&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2867900&dur=179.101&lmt=1726246800879859&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAM2gK2KYKgeIUcu_jLJpTw1BDRp3m0l12zOloLD0G6iLAiEAymicHFGYVG3HM13NBqi8Pj99qGM_dRrDCypiG86ZNgM%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgcV9lGTFTk_Niw2ZKmW6sCJEAZ8rwDiAlTCBlpXKkgfwCIFGKQtZM_yZPSZAO5nbtUXBAnskIekxx0s7z9S8Ea_Jp"
+    },
+    {
+        "title": "Burak Bulut - Ama Yine Sen",
+        "artist": "Baş Müzik",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158283&ei=a-XWZ_-jIZ3cp-oPyJzpmAg&ip=81.214.249.150&id=o-AAurXbaGsQSaC-nFjhMaqq16fPjrzy9h106xm3q8GkO6&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136683%2C&mh=Lr&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcNp0Vj7r_UovJl35iIo8tZMrZIgZVb2yqSTCBVHHIoozeiqVzbHnHnnk7dU8gLBE_uNtNPBqKVV&spc=_S3wKsOLRRhrFhT2K0GkM6DUujkD4dqkVkBmrEk9dYzq6pM-6BHY9U-F&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2384705&dur=134.981&lmt=1740226656875617&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgcCGKCg_PeotWCc5zzLgMsGr28q6WDk34_3xPOH8xTHECIQCkio7_Cj0W0EOSLK5tt6P5XU8UtAnuoHtjQ0XlirV7Ig%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhALvoX6PkzHkaoX27NJoZs23CVegbAOS9smxX8rbUNgdAAiASZqxj1d9Iuj9_5TdfxqmQ4WFKQJZFBXwMfFAcPpdJ3Q%3D%3D"
+    },
+    {
+        "title": "Melike Şahin - Canın Beni Çekti (Official Music Video)",
+        "artist": "Melike Şahin",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158286&ei=buXWZ9O3Nf7Qp-oPnYqr-AE&ip=81.214.249.150&id=o-AMdU6bXK3xStNeXz0dXTTSZl1HVPB8i5HiflQ5nMWgw7&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136686%2C&mh=4c&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zn7r&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcMrlu6o5qg5MO2y-bhlSuYStbczItNd8xHf4bewpfTYfm743GLsu_0mTso8vh0-khkDz0cRvxXO&spc=_S3wKu5a8GjsrcNbCF1bWrI0gBhBY38alsKffA8kyKPlXt24nd_qTBFR&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3148617&dur=196.341&lmt=1727843964911449&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAOrvB6FxTFpfg7_dKJO_8UWear-PAadDdu1zeH1L8_K1AiEAlhDoCH5u5nQ8XoF8uXIsHQcxgAwfsCQ0mtrEIEjDykA%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAPSR3V4QEdcx4UsLWejJercT7Vbb85oWWRexkj-_UTAgAiBiaD8PpDM-7NXv5musD_FsD-POV47JfFLrpJLtK4JhBA%3D%3D"
+    },
+    {
+        "title": "Emre Fel - Sana El Pençe Durmam (Official Video)",
+        "artist": "Emre Fel",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158289&ei=ceXWZ6PzOJnmi9oPwaGzsAQ&ip=81.214.249.150&id=o-AHN4V_6bxLUAwxnCJ4iiQK4HLOgkrYZIBZy41XXqRpds&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136689%2C&mh=OW&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=7&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcMy-49lQVDwjpPpVl7CBNfGAkc7NUhwJTAxgnTB7oiRlPEf6k6VIQYE2hrdNsWz7Tr4ngb9YasL&spc=_S3wKuTKeu6suAHkqh0Q5ZRiWdE3NXYI56P6Vc8gY2Hwb9RlzzuytaXq&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3603664&dur=212.441&lmt=1726298349084691&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgPhN1IfuC5CYfnMfeOvTOYS0toa_CYW_nUOTl42ugRRkCIDcS-4Ue5I9OA_z97R_OkSmRd53Xsjp8_ReyAebT4sjr&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgXrtsWcyd__pdtD7MC_lbPvcoZCqzWDzTOszgSgUZdVUCIC70CuBxIhH5Hv7d3UEZ1bddHO8DeaOorcibsbyxxK2T"
+    },
+    {
+        "title": "Burak Bulut & Serdar Ortaç - Yasemin",
+        "artist": "Baş Müzik",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158293&ei=deXWZ6jJAr3m6dsPn6mQ8Qk&ip=81.214.249.150&id=o-AHOri0Yh4TdXtW6dJ-zh6gbAKUspaVB_L7pCizNkCK4g&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136693%2C&mh=wK&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsy&ms=au%2Crdu&mv=m&mvi=7&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcOih-yZoxaE42Z2njx-yOtcdaOw0pRaA4CxN85YPw9t7VHVioMxUJjVh3-UhdcwlYDYMjgHcK1e&spc=_S3wKkLX6mWF4t7hTyRkoUNY1kUKwWJg-1bLxD3pGjRq_DfOjCypHApJ&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3211573&dur=186.021&lmt=1741057793210868&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgCnzoP76EiVTP6X2clSQNSO5QF8cPcAMAWtmUKBf2NvUCIQC73xCkh4ZMMIUGMqLLIOcNMZ8nVMFIVxOl6vryyyL-mQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgNY0HlJEs7pfn5QeZbz9HrC3EyBT1CrqLVfVLMXFfMPkCIElpFAB_1wZxMARn02EVXCB1omW0wG07Ma54DGzBs8DP"
+    },
+    {
+        "title": "Reynmen - Renklensin (Official Premiere Video)",
+        "artist": "Reynmen",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158296&ei=eOXWZ6eBJJfGi9oPzpXl-Qo&ip=81.214.249.150&id=o-AAom8utM5GBnElf0E9_g-ECgMXJHE7G4uqhUqAqeOkOZ&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136696%2C&mh=gf&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zn7r&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcM2HlZIWpz9SZPJWeIbLnTQQS3HmiQkDRETUWJGu4mJjRUV0BulV7qegRFeV_cHW7fsFEmLv-Ro&spc=_S3wKrfB-n_03d8Vam49cBnaVcpwyGO532WmyIEcPp8OpHiDMdGokKyx&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3321294&dur=197.701&lmt=1726314400705075&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAJWDFM0UCTPUGcOyhW3bIllaaYZ3EbBU5oplvadDFOddAiEAmL-E3FkabL6IE-GMuCw4vRCwFrBAbx16zW9e6QOdZyw%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgPBVKK_e2D5_QPZOIoxXxN_Y7uLKu3PqCDHULpNiQ4LECIQDoJDX_jwDhs1zZUt6tHLoN0U2INWyvPe0DBmNfaDUbuw%3D%3D"
+    },
+    {
+        "title": "Ali Alkurt - Bizi Bu Hallere Koyan Biri Var",
+        "artist": "TYN Music Production",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158299&ei=e-XWZ4H1N5uEi9oPjZGu0QM&ip=81.214.249.150&id=o-AMVP5Mnd-pqfVD3RVvjT99owcR41aX4bN6xdBfr7u97c&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136699%2C&mh=Xu&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsr&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcPamaamp79As1vyJvEdoUKfaxiU548ZK7vvHhmJm1658yBreZ36D8Rw-MCbo9DY22HDlvh3D4C1&spc=_S3wKsmf8YpBHF-gFSbys-Xyj-1u4qzp5h3u-_cFgbnNtqTJ9z_YHUGT&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3850352&dur=216.321&lmt=1738433436086609&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhALN7-WyKoURukiIraEv6pglJSMzbflMmHAPtJjWhgaPzAiEA7RMLuVxXZ0yratfcamgBQmWgthqQU_vGZGDaNLPnW5I%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAN-igQ7ZUIV-HTp7FTto6KTolg9ahRhIhqYlYpb8oPQ4AiAEdezwBG_oQ4oZAMKnFph7lkniBJY-2g5k000OPHWBWQ%3D%3D"
+    },
+    {
+        "title": "LVBEL C5 - nE?!",
+        "artist": "LVBELC5",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158303&ei=f-XWZ6XfEdOYi9oP4oCg-AM&ip=81.214.249.150&id=o-ADOKCvZ3yP6x6PI0Se7wfIYe7gzWl5FWndSXkavsoT6c&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136703%2C&mh=59&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcNrw8Ws8skOrpO_dcyEOVU4pS_MR5yqSlrh11dn1xyZRsFyIlrLScR2RlMIxOqOpSmPodV2RKOn&spc=_S3wKkPXMpzSB4GrxisrB5sb9Aa8JexVOSLOlzVseckTVNxDOzE4RsYM&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=1976545&dur=114.221&lmt=1728727563137715&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgF4mNbOv0eJSXtRXbr2hEfGrSmAIpZRnM7M-UkfkM4K4CIQCUcAD6rkgHevf1e_TQ0GjhjOCLhzlBeWkK5xofbhEDJw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAIFwPEHHNBSd9K9AG0JEy8eVAuA5fg4dXMxFCCFihpqwAiEAiUhR1Yxl6lhxNigabSoyJyy9tkjKdWynn4LwyFHQp70%3D"
+    },
+    {
+        "title": "Ati242 - Değişmene Rağmen (Official Video)",
+        "artist": "Ati242",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158306&ei=guXWZ_WrHZXRi9oP6vSEyAM&ip=81.214.249.150&id=o-AMzQHFz-tPQDOfvjuwUxdJ-EhKFax1oDovC64ccIVz5v&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136706%2C&mh=86&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcOUitlwwWudpU6apoD72iF1E8ee9fovhSbmyxDRgf7BIVmWp6kyfu3MV_WJxIJStmufjrpqHve7&spc=_S3wKpTnXCgupj8F3GJLxReYctd6Rf4MmYegOvhzQHNAo_azzeeJnyOa&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3289311&dur=187.301&lmt=1735866009795874&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMJOXbz0naD7tc0KLbuGN9KFVicALuxPXaVDy-L1IVtCAiEAzVfDJ4nsG9aTPimXDzyBGPPeM559FQjHr7AvtHdjqSk%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAI5W1lml-pF7yKczvljAkmCoBy_3IgG9yFT_5ffZ9h7YAiBEtKrAz-1eGi_pmJ7LQ3sDBCP9O9V43GO-j-aKY3BEMw%3D%3D"
+    },
+    {
+        "title": "Semicenk - Geçiyor Zaman",
+        "artist": "Eva Records",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158309&ei=heXWZ_ewL6-HzPsP-uaLkQY&ip=81.214.249.150&id=o-AC0khWJIKLoVaV3HYvii8KamIoj0UeRQ7cSqW8KRdYPE&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136709%2C&mh=4n&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcPpZVQLP2seJ2wc42-soqRWiu08oUGdZ0n9OCVySYrONR_o4749pBAVw_fdr_4OpCxQzpyGdMmK&spc=_S3wKife9PHX3FOsBmi2plgpa2btxZvKKj2dyhOcU2Oe6Od3dLzzMt6q&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2801133&dur=158.141&lmt=1728596393651424&mt=1742136542&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhANSMx3QfFMcW_AnVRwP7_q14t74km93Gco5LvlOBcXa7AiArci2EQZQ5ZbycqUe_Ey0spvkK8ydRu8QaejpP-kNGvA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAImnne3bb9f1oX51IdOZHaclpeYkTkvQF5HkA4BImr17AiBMimizBDYMvOzXhVDIRO0RJJkjBJZi00u2CNn8Mr_Q_A%3D%3D"
+    },
+    {
+        "title": "Ceren Sagu - Yalan (Aleyna Tilki Cover)",
+        "artist": "Ceren Sagu",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158312&ei=iOXWZ6L7M9jMi9oPjrOAgAQ&ip=81.214.249.150&id=o-AB-17CcigCCgoUmei9WYekB0u5_daB1qMFtbse3tYoR_&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136712%2C&mh=qE&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zn7r&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcMBUynYM2P7fJGo42naXnm5cS5C_PgnpAIgUoL94OnSYwtZMDjBs-60OZVqKyjg84mmqHYat0mD&spc=_S3wKvK35jbUZAXWdlT78OYQgLQq2qemMgZwbGvsDIrwpS9rD8vWM6v-&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4564605&dur=265.941&lmt=1741139504995682&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMNKeLMPvQWmRWzZQ9xTgxdkPr80f516tCUWeyCZofe5AiEA-CMnYgWDe2oPdcDsoJM7Tx15loctPJUhq_12_6c1iEE%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgQ5W-sYuC5ApiBo2JpfOPaW9IexcsO4ymXmuizeGZSZMCICUWk5ZCCFC7zxdZeX-2FTRiFe0ug7WB4tgQx0kFiQ1i"
+    },
+    {
+        "title": "RAMAZAN GELDİ RAMAZAN | Abdullah Beyhan",
+        "artist": "Abdullah Beyhan",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158316&ei=jOXWZ7reDu3Gi9oP5t2soAo&ip=81.214.249.150&id=o-AJciIl8-ACcWEGojKcKDPr6VfKnZ6snJmIqly4OiY0ci&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136716%2C&mh=58&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnly&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcMwyi0SdscDMXSeYqZfN84aZw-OZ86CR_Qjw-W_r4nJCMvrgpY5MQ03u8Gbl-TCkgpvhXS26GYh&spc=_S3wKlplQNjHWuxvRXU1hc8fSnfVb2sCOmOYLjYVgNAmJDlatc7gT3vg&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3182363&dur=204.001&lmt=1734391209230708&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhALh0l_SBxtGRlRR_mvQ7i2BuqTncoSRLXMAXwjzRiUWJAiEAkV_xA_1miqPn39GHTIdkGpXQ9umbS8B-BCIkCaxXApg%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhANBV4boACuw0n3_rADOo0oe5uTkQnxaEZUCE3Ssaut04AiBjIiKO0gnUmwixYOgjlOelGxR__LMvdqACf2NR9swlXA%3D%3D"
+    },
+    {
+        "title": "Murat Kurşun - Mardinli Güzel Yarim (Urfalı Güzel)",
+        "artist": "Seyhan Müzik",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158319&ei=j-XWZ-SEFbvOi9oPuKzekAc&ip=81.214.249.150&id=o-ACIO0eZKzutLxP85p7lasSasiEvT8OdBbbPrHqAx1cKz&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136719%2C&mh=9q&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zn7y&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcO9CPls4bgZs8n3onSWPC5oOpQnWJhZQHIISfW-xtwmu9x4tHv5atInxA8aLupRAcxKRMiOEfRe&spc=_S3wKpn8R_IKBzBuVz5X5nP50Ei3yFyM653KJsW0_A5z6hcXiCV9L4DO&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4752850&dur=292.461&lmt=1741433347142912&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgdyY2WDV9OSaNe7O1TA1FpROceqOgf5HU3NSO1TPrSP0CIBeE-2nwW5gK5vVHoOSvJA_q8d7wljV9duR6l0kz2Gcc&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgK-ya7KnJV68KHWnVswdti202Y1pkCouxxYQ34HP8PLMCICx9Slhy-J0iSesTjp8hlfp8pVSSmVXe5MhnsRjYyn1z"
+    },
+    {
+        "title": "Edip Akbayram - Aldırma Gönül (Official Audio)",
+        "artist": "Avrupa Muzik",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158322&ei=kuXWZ6mjGpClp-oP5cSH8QU&ip=81.214.249.150&id=o-AD1fi0Jga5yLOOj058k8g6tzsc4hRTq3OPKZ7SCwJYZd&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136722%2C&mh=uZ&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1711250&bui=AccgBcMlXZX6SJr8CCBErU7TfBVdEzw2wCJJfOdpHzQucZ2_DNZMMRaUTq8yq4SQTkfp2t63KscM4_gU&spc=_S3wKuHfHD3QoqnxW4WT24PFeFPNQRLlVqecB-6imiRahplSsHhHgrT3&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4927014&dur=293.721&lmt=1725905468746241&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgIbIDkgqi_IbcCnITvKqa3UJ2eyKDTG_edqoMQWrp4h8CIQD29iXPSEpfMnsHFuJIw3ftURPO_QQ0spZ4xUEBiU4F9A%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgJ05Tv6y8Ice2ag4eu9i-Y2irKUVCjEM9ulgdBzdt4YQCIQDzA4p-sol_5ucM7YS6i27jUcg_fzkJPaDQqoL7jb60EA%3D%3D"
+    },
+    {
+        "title": "Kamuran Akkor - Ben Sarhoş Oldum (Deka Müzik)",
+        "artist": "DEKA Müzik",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158325&ei=leXWZ5PGLISCi9oPn5uvOA&ip=81.214.249.150&id=o-ADyPKkLmWSoMSPWJRSAp-3L8dJKbVkIR9PaBk57unYyn&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136725%2C&mh=27&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcPYQ4GFtHP_r66VS2PNLJHWq9N1ws7iKXeE7lxJ-bDYTBBfJJ4k3viQ9qYbRaTTrO5MbE7T46hZ&spc=_S3wKpqvxJwUrOJzx6CqQ04h4f51rvVoQxXaw6uwuBmIYf6tLAeOMoXU&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3666470&dur=210.021&lmt=1731833959630869&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgPPuhVk1C3y--HIAhdgTiAG71iGcEnL44rT1gb0PjqJMCICdJ1ESrhEFJCQ7sHABHdzYFmHpyP9u4OaThw4wxt5tT&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAMSgoGfGsCrbeowGLpdLJxLFim16dEJvFt5CrIBNOM5eAiADKSNDjrPOm4OhTzjsVVpAFtAVSwDYQhughtfJPAT1eQ%3D%3D"
+    },
+    {
+        "title": "Yener Çevik - #HüznüHecem (Official Video) ► Prod. Nasihat",
+        "artist": "Yener Çevik Official",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158329&ei=meXWZ7bNDY7Si9oPjKHu0AM&ip=81.214.249.150&id=o-AKldmZsMq3RsY7FwnjY91a9kkZgquy7LknfBDqnJz4mR&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136729%2C&mh=iM&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsy&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcPlrYoxNhUWtOg_E6AlXkI6KtEFl-oG64-j-tzQ1zzE0EKk7nWLwOz8P8k-A_ES_ByHk2hkZd-R&spc=_S3wKtroemME34sGL0WrQE7BcNKQh_cl6kcKatclJt6KYN94YAOJLKM4&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2343809&dur=145.941&lmt=1741433592963426&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgPAkyO5sJeDcxAGG3E7T5TB_CRCqoHGiQ6eamOC9o9NMCIQD0oNWgisfyYJmKykop0FG0bYMIfDP7ig2fNiWjZ4lqOg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgJTScyBtEwhZevR2Mz4DOq-3U_4KM49xExXZN5EW3-ukCIDT207YINYMZW0c5d8SvuqSafEoCChq-s63E93lzHLIu"
+    },
+    {
+        "title": "BLOK3 - ESC*BAR (OFFICIAL VIDEO)",
+        "artist": "Blok3",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158332&ei=nOXWZ7TsIJDwi9oPpa-VyAw&ip=81.214.249.150&id=o-AK4n-OmRYx2Km552ClWlvWrkTlPVcO00Otw7aoaw10Oc&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136732%2C&mh=GT&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcMC4X-xMMLJhXIOVPYvAXDqoH8clb-B_w_BoVs-IBXGLSH3eaMu99k0GIHBeRgcbOvuGOtmHLGa&spc=_S3wKivVTzUjEhl0vEpyocPzyaTjTojHEO_QOMB0LbI1jnp5uKZ1ovCU&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3484475&dur=179.381&lmt=1737019404931977&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgbSbcU6__URbck7helVCIfrz2o8MowONkU8lR7XY3wugCIQCOKjfccp9hbATFXBoeLdot5hYD0gFgmxLGvLzZ5TbZeg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAIJlZ__YY96oQevreZBQ-oyuY1ihIskeUF2iISkNFNzLAiBJi3z49kpQ5uQUt05ftLfPoTmoPxRNkm_lkh4tCzzj2g%3D%3D"
+    },
+    {
+        "title": "Gamze Şeker - Ayşem (cover)",
+        "artist": "Gamze Şeker",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158335&ei=n-XWZ5PaMqbIi9oPqKT-uAg&ip=81.214.249.150&id=o-AI3ZE9nAkt3b3_5rtMQS7LuFuCxI-gRU24XDuHbqlzS1&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136735%2C&mh=jl&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcOdWoNznTTTw2yds_im-OUFyfCMYSaLRS5sXdvbtaLtB9QSluQGtzzfQihJpLDDhTLqsxlCHnbh&spc=_S3wKozE7NHIaY-3xvXoKLGdpLpCkf72vB2k9U_Tz4lSvPflFb-USVgI&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3248459&dur=199.761&lmt=1728973765856870&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgQ-99shconBaK9djcbwNPHKsH_IJ0c6yPgAwKZErpumYCIQDv-RNzlK187RUDgtff9uhLZJdBQXK7A05JC99UwLTDIw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgaDYtKP7ZZBIx0WZB29xbc4F2sO5FGCH8wpyC-gHyQlICIC1-MYLNH-q_w4_6FomqmEsk2V4gpwPVG3kYNqyjFbA1"
+    },
+    {
+        "title": "Simge - Önümüz Yaz",
+        "artist": "netd müzik",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158338&ei=ouXWZ52QO5GFsvQP67TGmQ8&ip=81.214.249.150&id=o-AAijHex0Xbam-jGIBeEFd1vzxzdC4V2jNA34loSu6mCH&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136738%2C&mh=5U&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcPKzH1gZO2WfAoOL0husq6VfhgiZ8GU9dtHLTuuVG_E_bvuckwPpjIiDu7gYeRRjh6QsbRebCp4&spc=_S3wKje2D7C8GKzolj56HIbEg-xKy3J3rbr2R-rxYxM3pYnlxEBMOjmD&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3091875&dur=186.541&lmt=1728202887869467&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgS7zObfSGqilysNSmA_KEONOT6JY-CKWKB6CA_wYmrdoCIQDoZHjbs2vf6I6vqepp2KiGhN05eEDfW2md6ceIusXzww%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwQwIgS9PmdR0pUbKfohVsdBLXsJd4R4Z6uDLk93fBPqPO7XgCHx66ZuYOnOM3jAkkrtch5Fq0UQqxcBJ68dqvbFSJIIU%3D"
+    },
+    {
+        "title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+        "artist": "Lady Gaga",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158342&ei=puXWZ_HNGq6EsvQPhcLa6Qg&ip=81.214.249.150&id=o-AFLAMQ3OjwFcFDepL28a_ytcprLaUaURrGQzRXBuCJAs&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136742%2C&mh=Ji&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1653750&bui=AccgBcO53WCoqgtczIBkwJCF8gBPY0VE1cnZKSzzzd5FaekCgKZDxkNkCV3ObGdffdLWfZrtNFFbDhob&spc=_S3wKqxfc8oWayQgBZJA84TYVexxKQ5iVvd7kadrKB8TxuiR8yOa9tbl&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4113988&dur=252.321&lmt=1731709075916431&mt=1742136542&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAI6CW1gDloJH1sFpgnRQ7G0moWIy04_8qMuOCTyTSpeDAiADKx3h1LxKVpDoy7R7-a6DQvOxwCkF2AE6PEjLP7j-Lw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgOlih6vSKcVSZB9695OqvhFN2iiZU032TN0ZSGy3YiXQCIBUQNGz4-Iyq_HhmFDKszYImOC_bK1GzMpY9itFwC8GU"
+    },
+    {
+        "title": "ElMusto - Dale Don Dale (Official Music Video)",
+        "artist": "ELMUSTO",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158346&ei=qeXWZ-_cPM2pp-oPn-Cb-QU&ip=81.214.249.150&id=o-AKrHAGBD47QYFnAz4O6FW_HI6aJeCE0j-n6oxstLkA39&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136746%2C&mh=bE&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsd&ms=au%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcN9u7YZn_eVRVlBtkeCPdJmtwwZcEVyDg2SXwwP8GCrGStIO9X2hcZgly1pkTpvU6x2MORi1aV6&spc=_S3wKorfTQ2MgsDyAqjJ4LANF99tjQNd6W4QKTF1nkACxymhtO6BPUDV&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=1938200&dur=114.901&lmt=1740485494375640&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAK-CcsonCqzModIZXMDFCAnypoVqcDwL0nQLApGf25z-AiEA4G48DGAnI_mu2-bOrScq5SdNEYz6_DZ7usFsoocRQlY%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgHS2fMANjZobviO0o0U8ACKFxVUOT8b6alRjdmRuR4-oCIQDrqCI9VXJ49cRfOBSz26uqHW_1E6yUjmXGPsmWv_RlaQ%3D%3D"
+    },
+    {
+        "title": "BLOK3 - GELME İSTEMEM (Official Audio)",
+        "artist": "Blok3",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158349&ei=reXWZ47jD47Ti9oP0MS7sQI&ip=81.214.249.150&id=o-APedF2llNHWWMXU6RDQzUJPRIhIV-nMWxGIz9lKrVi1r&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136749%2C&mh=Fn&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcNUq3L1zN3tskLSa8oOgN1GmA9x9hPJVRPAg_IuaLw0OM_3l8bwM2Wk_WGgPaHZYmU1MBY4h2ae&spc=_S3wKkzTuPHkKutDF_Um_hZV53ZWg1Cy5aH1grRVFSfnIDuhLyzddI47&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3497538&dur=186.581&lmt=1730726018631586&mt=1742136542&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAPDU37HJne2sj5Mqc7ePU4GcvCNdjSfn62SrkTfb21UpAiBQHLJEJpSd5E3RnVuWaGiKQIaMiOZo7j2Slv1ka8cPww%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgee1WZJXgZSUzR1E4Dtzb6c75FOgcmWR0hVQ07lgZ5U4CIQDp2Mz4Krn4gaNxxgnf0eHu-VhUY_MoRL6gR3AvAxOBiA%3D%3D"
+    },
+    {
+        "title": "Soner Sarıkabadayı - Mevzu Derin (Official Video)",
+        "artist": "Soner Sarıkabadayı",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158352&ei=sOXWZ4-PHsrHi9oPivXV4Ag&ip=81.214.249.150&id=o-AATup_03WwUMGVypfhP96IKpfZKuxdW6qcEv9RAD46dS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136752%2C&mh=Q9&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcP2V6XtuZG3e968zrBXxGs7l-7Y4d8SkAri-75b8gUVacwUP40XZU2U07p6ewUFXIIK-uhzMTqV&spc=_S3wKjqSj9sQcrR3p3EsvVI_s0GPOO5PfPZGgBekK9SKYPFzqBuow5vg&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3634641&dur=208.221&lmt=1736217316436898&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhALvDUyyntJcptOfFr9rNNxw7dANhswc8RpM62VRRg_YKAiEA-VV3n8YH6W7fdn6aX_w1RhwWdyMuVuf46Fenluo44C8%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgL4ksew9dAZ_oIuhFJ0zLc6jepV37ed4goF7FGCBriKQCIAJgfOheVwaeR3aesG04dPVdW2tqnbXB4vj2Yf7Euhmz"
+    },
+    {
+        "title": "Mela Bedel - Ben Değilim (Official Video)",
+        "artist": "Mela Bedel",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158355&ei=s-XWZ4aEMrW_i9oPsqWlyQo&ip=81.214.249.150&id=o-AAER72w66f25BcqXsBdSoa23Vb1SILKd6-hQ9Lu_FLes&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136755%2C&mh=kR&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns7&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcPskvDU7yCozeJC_M7qfXesA048NtOJMcdhK9YU4Y4TbEc42nHV3L1wGl5TvMQmw_2amKIZti3k&spc=_S3wKip89lp4iMDEnKXJH_esrVp1kKDEj3r3kXWGInVYL-EV1mwGsERF&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3012501&dur=221.881&lmt=1738409822916394&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOHzw3OSv6Ar25Y7kvN1RCp5kaolRv7QJoW7TctqfqE7AiAU8rbrHHuTsailNElSeeVA6XohOvWAPb1SSM5Qshbnwg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAKRwPROAIWpk4Esb5MaKJBkBdp--rFrhVGmX04672N0-AiAOM2TQgJVf6VDW003-ejrXT8m3RbIT9RiH8jBGiQ_H1g%3D%3D"
+    },
+    {
+        "title": "Fatih Bulut & Elmas - Gör Bak",
+        "artist": "netd müzik",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158359&ei=t-XWZ9e4CI3yi9oPluub8AY&ip=81.214.249.150&id=o-AIRLMye9rNUuxgSQsSfHDl9Tnwl9gDK8Oe7rBduNlrqZ&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136759%2C&mh=Lq&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcNHuMaCLU_xAzOgMIr6sv4GVV3R_fn43AQ3KxU9CGBLptBM4nglT0om6uWJkhByG7JAWuETJM0o&spc=_S3wKq-QyfJoLWldRa-8Ue468WHU--6DoTsmjnN3614sOlfotodzsnuh&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3624270&dur=218.981&lmt=1731359841321931&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgUAwe6_RXBZGBrb6jSif92DAMPCo-JDhV4bhBZFbLqmQCIQDYbZdMKYi_pjF5ZNLLu_hcC-4wL55XzmM4EKJyMzKs0w%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAPrnrSdsLHY7aFq7TxVvjkPfU6ADqKHCJKDwTQzvL1CjAiEA0siDiBjVX6pdbSqOcUbSnzmPH06pSXKJ476QxhV6eSw%3D"
+    },
+    {
+        "title": "Bengü Beker - Sana Yıldızları Ödediğimden",
+        "artist": "Bengü Beker",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158362&ei=uuXWZ8e6Hqn_i9oPmJff6A0&ip=81.214.249.150&id=o-AFPkqiZT9oKqjHAuvtWnFlEljTXkisdEGP7X6gDTi0vN&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136762%2C&mh=KA&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=5&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcP5fZW4RvhPCDapCo_CPnes8MW3d4EuEWvBn6wp94RCqM6b5ECshVlH99VWgOdSZJ7krfGgK4y0&spc=_S3wKnsXTntO4pxgdBGmnHT8Z7wuV_CVFx3xzZ-50D6iF3XN_qx4-mIe&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4391786&dur=258.141&lmt=1738090088411028&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgZkvufdOUlBw8SWwybPrRnaS2a4q21VR89_hrhD78VsACIEY_iaTtPWoTF-GioNfO97XLIkXapic8fpHBhh5jDeM5&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgUUROvt36Bo-kYdA-0sZecqFkl7v41QgS8yUh6jeaybgCIQC5IR6gaZT6OwRbv6lDuMa00OqSe6QHwDjAmVwh5gyKfw%3D%3D"
+    },
+    {
+        "title": "Ati242 - Sönen Sigaralar (Official Video)",
+        "artist": "Ati242",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158365&ei=veXWZ4yLMeTOi9oP7NLs0Aw&ip=81.214.249.150&id=o-AGIXi0-8rW_bfiSUcK71UAxr5TZd0d9HJk1CWgpEVTlE&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136765%2C&mh=LE&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcPuNyfGqkUGR4pBlzcwb7wzZtHys4aqx1f36yT3sZHFCQar40qpHaAeshVyWfjfcevn5caBmk-t&spc=_S3wKgD73IzXc7EEp_CBq-pcQDe97JHJV3HelHXm-cKOgjA5rAGVizrv&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3803391&dur=209.661&lmt=1729151261056081&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgMYlmRULGDrlw8jU3KRg1giG_ecWPuFmEQOv2GZQxpjkCIEGVvePJxnFXPka8q-Lfnyxs8o16k9yrfrc6l7Ngs3o1&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgZw2-Ns-Ue4fWfHws3DRROY881G3jkMzx3gV5Az7BRH0CIC4M7xO3XZo8wQ-pjLPiiSjYJd2nwDHrNbaqUuGKn7vn"
+    },
+    {
+        "title": "Wegh - Yanlışlarla Karşılaştım ft. Keskin (Official Music Video)",
+        "artist": "Wegh",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158369&ei=weXWZ63uDa6AsvQPhLaHuA0&ip=81.214.249.150&id=o-ANNNulRTzKQQ05fYue_RqAGaLbKirRrY-Eexx5D4IK7J&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136769%2C&mh=dP&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcNVJdx1HWNw7MMibtV45_PbSMuBTvNmXNWgsSlIVsFfwGg86LJ-XnhR6Td4qYX67N9t8CJvYlf3&spc=_S3wKkSKAB9HtMqKtVrgUvn70CoMah2s7VwGPsyfYfnU6r5E4m0GBnOv&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2248390&dur=126.101&lmt=1740848535678820&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMUd7IfL10fgbIUsaCDLL3sqIZnnuCtAqOwST_vF-W82AiEA9yB8-gQonxQJmRm9DbiNn6Wk1UL1CZZ7f2QtUYxlCs0%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgGhlppHFZRvyZBFcDItUOE3pGQpb16i0pxaQTFL3ZHIUCICkTGzRaanMaf8T8cQDxSE3nwVlVrbzC44FpOWvPbDkn"
+    },
+    {
+        "title": "Bengü & Mustafa Ceceli - Kervan (Official Video)",
+        "artist": "Bengü",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158372&ei=xOXWZ67dIrzGi9oPtLSKuAQ&ip=81.214.249.150&id=o-AJ9rtvjBlyo2tmX8ki86L4r8Jc8mVubG2EZgrh28RhyB&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136772%2C&mh=5u&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcOOlRp7BLj7EnaMk9MzlGSutU6kKDw7jlLYMd2hxn9WmusgzZAGNFCrVdrT_rMMrwg0VTEESawN&spc=_S3wKioapiHhBj9CM6aHrJ55-UJPNtrE28Cbw9BJBTR0GTpfHhbFhEOH&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2594875&dur=154.301&lmt=1737443982472313&mt=1742136542&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgXZz0NEb0h_IfMfuAXD0PxbqIUKBWWt__SGhTf_bqc9MCIQCne9q0dlyxOwsogF7krbpmZRGlBfkp-YWTX6OzmCBQTg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgIk2YjuyfRR4mJYW4qk67qJuyerNQcCCP5bPTFpfy8cMCIGopU8jPq18nL6YyRIVlnvvd2GIH0SBI1R5YnwOJcwMd"
+    },
+    {
+        "title": "BLOK3 - UYUZ (Official Audio)",
+        "artist": "Blok3",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158375&ei=x-XWZ-zuM4mLzPsPipa82Q4&ip=81.214.249.150&id=o-AKEXbr5M8EXyZbfHeyGrfIS6ys8TXik1nHcBjsSSG12O&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136775%2C&mh=z_&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsr&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcNFHPcuHOoEJkvmyconSXoKyp8Ii3v3DCdY7L6oOrXzbkbVG904e_lBa7iZLMbWPFPvMRS9Grb4&spc=_S3wKnc56qmklel3ezhDZyqw9dyIdAYU0CHqxRCetpPtC0fIkErAMe3x&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3243103&dur=167.401&lmt=1738214116563953&mt=1742136542&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgdhBme9v5O1orvhNjhvJ69hEJBmVdgp58N3nojWGnbNsCIQDE7HlJqDbcEA6YFAS0x-dvajDG83Kewoozxqxn8rXwYg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAOKehC_hcpyjE2By0VjnbBGtzIiJ1nYbn1YDX_SDbkNXAiBclm2CMhkAbLtqp0QrAMG2N3Fk9oyW6j60TZrXC_Q2qw%3D%3D"
+    },
+    {
+        "title": "Zedi - Düşüşlerim Fazla (Official Music Video)",
+        "artist": "İstanbul Music Box",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158379&ei=y-XWZ7XxGJLJi9oP-Yz22AY&ip=81.214.249.150&id=o-AP6mnYJMIqLuYzOxrjmZ21xLxNVKPXjKRDmpUYEhCbon&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136779%2C&mh=fE&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=4&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcMI-uZCjuHWyDts_9I015ZRRx6lwfDfqPwppqJPgtSoaa2e_pF4IScSC_YmL9Nkaj5AmQYqU03F&spc=_S3wKo2Hk4zUdI0wr_Fg-Kk3PC7zkCR3VckWVrcRwnVcf1pLssQy6lZt&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2407431&dur=139.181&lmt=1741124787862544&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgLx_SEFMg85_T83HKtp1gqsXcxqoupLHJo7bVcYP5nNkCIAlGqOggM4Tf-7uncJHYnCYNLkS3KR_FaWZm1wBO_SUl&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgL6JgFHk6kpl-kE8kJV18lf46eNg9gnq4LonZlWHZEcECIG5YXoIj56r6Pau5tPJyn4bi1E9nfBgTPTXRKeh5IXeP"
+    },
+    {
+        "title": "W&W - OIIA OIIA (Spinning Cat)",
+        "artist": "W&W",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158382&ei=zuXWZ-vHOa6ii9oP4tnowQg&ip=81.214.249.150&id=o-ABtbOl6iVIkXx55rTaro2ERUdwzBWgmXvgeRHIhU5bsI&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136782%2C&mh=G3&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcP7H8lIrypOHR1twYnj6h3IEaWx0jB0Ecghap9Xg1-Y0ona3tszRC8r0AeI0B6Xh-ySFnpxApy4&spc=_S3wKhNjWh-dI3ZArQNTGwDOU9wQAf-hA6cphFo4cFgWa6thLSfJVwjO&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2223303&dur=134.661&lmt=1738103071804426&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAIXGde5pHpXj8O72yr1qDahXWYjsp1Kw9N53MtHMF_vLAiEAxv_g2i6w4FA5RtgQBdb4fF-GKi72LJgZipeO5s9KbDU%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAMNYVjPoPUKh9RCV6_U9A_DRJUtzpakxR9Ur1XxMJTezAiAoU5FuUMSaaJOKJC4LG00CjCu8cEks4V5tdbSiXmp12Q%3D%3D"
+    },
+    {
+        "title": "UZI - NEON",
+        "artist": "UZI",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158386&ei=0uXWZ8bdEP6Si9oPn7W1mAg&ip=81.214.249.150&id=o-AHt6dW4IhwFxwCjKnscADLM8pJpAOlpN0keAnnfzqpzy&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136786%2C&mh=L6&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcPo7F45tEqnkJG6xy9ZHFiDD30HXYFkW3VNX7OxFRsxF0vMQUzt2T5W-AiOjRv0B_GpG6At-TQ6&spc=_S3wKvMn4yZX1PfhF463WI3C3_T_6noF7C2xGvdwEmLwvu_JJgr7NDtB&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3429313&dur=176.621&lmt=1738023685790534&mt=1742136542&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMP9oungaC8sL0SQKxlh-GxhbAIyqw6OZFAAJqTcJmTqAiEAuuBLvevZZJqGZGPQTEJ7bSdv_U_VI-Ve18vjX8twCrM%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAImiGMpj0tOuEb-ssqePT4TiJPTYlFLbdvmSNzNAlPvsAiEAv7hrf7zfAss_h3ZQBNs-7wcJLHDW0fW0jseRXE2QPnQ%3D"
+    },
+    {
+        "title": "Şahin & Zeliha Kendirci - Melekler İmza Topluyor (Hakkı Yalçın Şarkıları, Vol.1) - (Official Video)",
+        "artist": "Poll Production",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158389&ei=1eXWZ4ajGry46dsPkOGFkAo&ip=81.214.249.150&id=o-ANSFAjPRtws6d4_MPgerXyxbdUsFUYqPbxQdHhDxeawt&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136789%2C&mh=O-&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsy&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcM-HkKk5_87y_DiWYonJIGgnvhcRBl3h7ZOvMzM8WGy8hSTKtkpJIBbYHbtKhLDg_3CRljqFZpO&spc=_S3wKhJ595CTKpDiQuWsY7H7kpTqsOteoQWpwBFKCgbP6V_KtioykLWl&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3941651&dur=227.821&lmt=1740167676336248&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgBMgzYmD6aEp2A1WDCChnaevrE0ErcaEDkyj13sPo-7UCIQCvJi-VMm9fPKltcD8RdewvgX4gZ-dyX8QqpnBoyITU7w%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAPzPt5ewHT6hBw0azx01N_TJDaB8hrQaN7DvU9lRDFmeAiEA6Gj7Z4qnbV2MiUUV_I2cvitjHa_QXPokA0f4jvYX8io%3D"
+    },
+    {
+        "title": "Bülent Serttaş - İkimizde Bilemedik  (Official Video)",
+        "artist": "Bülent SERTTAŞ",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158392&ei=2OXWZ42NMOXHi9oP2Nyd2Q8&ip=81.214.249.150&id=o-AESurkdO3Hr_duJ4ECUxOmDT1zLWpgNvH0viupTpM9kD&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136792%2C&mh=YR&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcMmbpecablHpcd7F8W4VdRbt19Ua1bU5cn4OS2te_wNCDMjDBQB1anc_vwX2-lSJVLV7Q1GmjOH&spc=_S3wKk5uOXvS9ArNkH5syxMmgFIEaWwWsVQu2IxJkRlmIB9YWhVXQzEv&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4883536&dur=298.461&lmt=1731435917439290&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgCq_333Ag0sg5dFj8A6EhgvACDJLU043aH6C-6CH_n_gCIBfHM2VJQ77kDsH5KZhvn9Rvh8JqFmyRlvb8cSZNAPYx&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAMQ2m-3Dri2h9pGoqdxqW6agzWf3gclLTa5dUezihel2AiEAg0vpbBSg13Tev8T41He1DAKOhErVn8_drtUZiH9C65M%3D"
+    },
+    {
+        "title": "Funda Arar - Bağışla",
+        "artist": "netd müzik",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158396&ei=3OXWZ8cng9KL2g-EtIuADw&ip=81.214.249.150&id=o-ACjyIpDAHIoWcKhQ8jyZLY62Q_NoJnfVrC-mR0YcdvvO&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136796%2C&mh=4p&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsy&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcO3ctmjUK9EXWAJORh2F_odzknOSQx4N5hDRSOAtFeTXzWB060h3M6x2eMmpJyfifdYhrXKDkJ1&spc=_S3wKu0GwfgTDS5lPkMaTC_9Jqdut1DyrPUNdhGxsnfKieFcBjxC1wop&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3714227&dur=221.941&lmt=1729334105949410&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAJjYnnwnkwyG5Y9eXlEioZcyMnMM_oPdt4PlvFqbLGPGAiEAvCdisxsXhO7imEDlIBQ7P3d4CUh5F4vDGSe98GDj5w0%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgNQeT-une8iRzWObc63bxtX0g7b7YNKsUAwGaZpFJMnYCIQCylC4YPowsYMWcsMHJFNjgX-TyzFyQ3uznkDaT4toEmA%3D%3D"
+    },
+    {
+        "title": "Edip Akbayram - Seni Seven Öldü (Haberin Varmı)",
+        "artist": "Seyhan Müzik",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158399&ei=3-XWZ73RHLSFi9oP6N6TSA&ip=81.214.249.150&id=o-AEDZdCQB18P6Wr4HV9Xxs2ygUmqIqBCFTQGOm1SzZYq0&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136799%2C&mh=kA&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcMX2SxpnQtpSacChDeZ4vr4gzGLRnPagiKssWsDJUv1UzxnuRNqtz7T6tYMAU35knrDdcljzUAS&spc=_S3wKiTurlqWtTDIu9iPdHUzIL5z1wx_3fVdatojN4mVo1uLxgcxanr6&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4369574&dur=266.181&lmt=1714527071046455&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgILeTmudig0jUTfJfdWJQgKoYJQN3qTg4-QIAbGLcV7oCIQCQtRUbGnd2_xqjKiAOCnHTwP8unQxliGv5-ziBXHdPFw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgEQclCFddaPZPtB5_orSd2SME1rtGYSzuupFdpldRX4ICIQCz12uPAeW9wuTir9xxLw3vxgauf1ETsmn9eKGHE40poA%3D%3D"
+    },
+    {
+        "title": "Şebnem Ferah - Mayın Tarlası (Official Video)",
+        "artist": "paga play",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158402&ei=4uXWZ5ijO8XPi9oP3NPHwAo&ip=81.214.249.150&id=o-AKukGwYKZF6GhuzDRA4NTDorCRLZDB0JXNkB3kS22FLH&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136802%2C&mh=wM&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcMZb-jGcYNFquZWq-e_dLROKxS2G0WC58rEAI-0NG17AS74WmHWDPhf03AbOx-LWUX6Mpgsoayb&spc=_S3wKnz4bA8WjqD-TwJHXGKi1ywkZ6rjsHskesSLprSw4dNdbdMus_dd&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=5393423&dur=319.421&lmt=1739426487499184&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAPjVCnOlBDHPjStoH8d7gg2CR-epfu6VmUmZBcbQ0iGSAiBX38ub7LDxthyR0xkXsYZ4vbp97ry1FGizgdCg4hO3Ew%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAKHAcU7HBzsu5p5svDazXeA02-8PMHKGynWjhupfRiQ6AiB3Se24RuEFLvt9MDw61vyViXSF6WYqBiptg52pByWV1w%3D%3D"
+    },
+    {
+        "title": "Sedat Sayan - Ellere Düş",
+        "artist": "Elenor Müzik",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158406&ei=5uXWZ_m_G8yFi9oP5ePPuAo&ip=81.214.249.150&id=o-AKOs1SFWnddwondI0k6j5aCrhim4vi-8bocBzEVA56C0&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136806%2C&mh=el&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcMVik3fu45PBh-yQIXAO-8sPHdCJ3ObO4uenlT2DK96iwiAje6ovlfFgPuendN56eo1V42lGEUQ&spc=_S3wKtVCbjIASkqxvInT7dglYRypfQIq4OdfAHtMxzOe2JcckRY-zNp0&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3593020&dur=222.501&lmt=1741669657323679&mt=1742136542&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOe1a0gyuFLoz-we6i7vzyvmc3ZlU7jQW9HByxtyjNFIAiAK9g4ELP_vEiXW6vPHzqmfxe5zwvNTGgYuowo_oji_sQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgMWxKlxuHG380NAt0cz7dzDlPluW2gtpJCxtfV4t0t20CIQDnmlLUM7-_e40HbAamo6o2Qy-tLRX1JymXvG6Xh8Ld4Q%3D%3D"
+    },
+    {
+        "title": "Toroslu Yollar",
+        "artist": "Pikapta Raks",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158409&ei=6eXWZ8HZJ-Wli9oPlOGakAo&ip=81.214.249.150&id=o-APARSKuYTl6Id2p-xkbGcw9A1BRnYoPSLK9dfPPZL0xd&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136809%2C&mh=HS&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1670000&bui=AccgBcM9JvSVxgbv7Zcd9LMNUe9RZ5QHdHZrqeWbUmPPH1QtKc99bz-AcKnMts2C8gv6a00TT2mYdkj2&spc=_S3wKh8WMr7vVQPmeGiuzQur0nAGA3pjkRJHIk4CNOJYRicQNzPSC_hQ&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4457097&dur=270.341&lmt=1714561554397344&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=2318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAK5sQ-2meiCtuhzlozY_xeMXUQm221makI5dzAu8S-EkAiEA61c8wb7893BwxPiNccgXphvEIy2kJs8QKFYxogMFLBA%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgaI64EIdW4eKrHV-FGObXmJJPITmOl9tLGrOkVgBU4SMCIQCNEm8wqHJUezr_51rcw5RgoZfTuyTGi8eH0C34eLOtSQ%3D%3D"
+    },
+    {
+        "title": "Dönsen Bile",
+        "artist": "Ferdi Özbeğen - Topic",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158412&ei=7OXWZ8DpN_SDi9oPib2JkAo&ip=81.214.249.150&id=o-ABICsd0TG-v7DbEYhS5cn5dTRfG388ISKbs4qFpKK-y9&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136812%2C&mh=M3&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1711250&bui=AccgBcNunSLx4gPjRCcPnp8wLG5RkEwZ1X9IKjBduNt3O-GTG3NDWCXfsk9R1XdNyHyN4j2oKU30EsaT&spc=_S3wKoXNTYfXAV1pTq4tsxCEM4BPGNFZyVgSh90ZX2Wah1sBI4V2-sNZ&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3395115&dur=201.721&lmt=1714551463261865&mt=1742136302&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=2318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOUgAsmz3E3AnRdekCum5ImXuWjZJiQaeL2O05Rll525AiA606u9x3zKm6MWdvW-GZGTXr1x4qW2QvwBDk9fFBdCdQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhALk-wtOC9_bWuO8yAhr0MufXFIBuQw5RdShLUPf3xebkAiA3vmyxx30zHFLLUaRIqNw_IwAqKBF_NOV0P2VEz3m-1g%3D%3D"
+    },
+    {
+        "title": "İKİ GÖZÜMÜN ÇİÇEĞİ FADIL AYDIN",
+        "artist": "fadıl aydın",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158415&ei=7-XWZ_jROZKjzPsP19mV6A4&ip=81.214.249.150&id=o-AOZfIKG-EDVrW1WryEumc6D3Xry0vfwHEIG8B_xgsm4w&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136815%2C&mh=Gs&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns7&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcOHB00eOWuD1ij9rk303T-0NhVk_bAfJ_KO3RKZH7GQW3jkkPIlkYYblQoibshKG6XsUR8wBC4-&spc=_S3wKuxIFkTk88b42jcc5HPIp7M-NEag4LcJpof7jej3mLpy-TaGiu-s&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4487516&dur=265.921&lmt=1730863264583839&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhANcu5d87dpENjNbhFpisQHofkwhmrql33uTNJ4EalIDcAiEA6WmtlewL--na2zJkkSvylTAFfZXb5fjQv5cQi3u5fJc%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgNvvwNH35Trgf_VmCrG2HCsycipSYhyPrpRs01dodKXYCIDXM5m_INLVAy93Dy8gQAADPiByutDufFkRlC4TNWkgE"
+    },
+    {
+        "title": "BABYMONSTER - 'DRIP' M/V",
+        "artist": "BABYMONSTER",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158419&ei=8-XWZ4DCGeKZi9oPgcTogQ0&ip=81.214.249.150&id=o-ABplRLBOAPYnoJ1fDX1KITd-6Hz35H_MujZNwpRSkpir&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136819%2C&mh=kI&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcNZKkggZjaUGy5l8AJXhjisLYH4ClijHlJvGuYOftM_Zumcl-d7MSiwh3dyWTE-4cOrveqAI2BB&spc=_S3wKryN8R9CNuszo8fdF6CqyaI7vNt38wnvTsqxHoGwgnBU71lF4N0C&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3065615&dur=187.021&lmt=1730702029261619&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAKmkUZ11tQ5W2dNAtdfQN8RAk_zFRfVfOCZklDz0qAVOAiAKk7A2WIZSfg_ALhayAoDMq4BBk6SZrBztSANx5d6Xig%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgVj_kpbuQs9kc4TQ6LoxNd3HeN0SfuX5LCi7gJyytuLMCIQD00-Ww8AV91yemnQqJExZkSJD7A-vW08LO6I8HmZDeng%3D%3D"
+    },
+    {
+        "title": "Kerim Araz & Sevgim Yılmaz - Senden Hatıra",
+        "artist": "Eva Records",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158422&ei=9uXWZ-CVOL6ii9oP_PHWWQ&ip=81.214.249.150&id=o-ALDHscUo8s47vkPbJ4cKZpf9hwzLdhiuNMQOiZRUGq_g&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136822%2C&mh=2C&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsd&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcMjCVZ67smxyW1Vb01NXjtJNZ5VQPRYtQ7P5V0DiP4TTiDM59zDGki1lGLnnhIS1GXNY3LZe6vn&spc=_S3wKqUeP0qI3vkwsuhV04LyvoqsgEUMr4EpWtlKxTkbRbgUCQyRwTKp&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3366339&dur=198.821&lmt=1741089231764127&mt=1742136542&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAKys1y77NNxmeqE7yei1eQ3Y4vnw4djftp68IrvRKlLzAiEAsFzIX7ATjNkKN4uhZCWGMpBbiG6dLJwaDUlA8cxZJKY%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgMUNen41sXa28C4O_MjKo42xjieCdQ5mUNbVuLzYuzCQCIQCHfnzQhi9UwXJ06tGrK2tKf2QCFhYa99glc412Ig70WQ%3D%3D"
+    },
+    {
+        "title": "Nebi Demir - Kalamam Arkadaş",
+        "artist": "Mahzen Fabrick",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158426&ei=-uXWZ9v5G6aFp-oPuvmZsQE&ip=81.214.249.150&id=o-AEqGquPn9J5xWaGaGrDFo8BOCCvSFUSheb3m77BgmNge&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136826%2C&mh=q7&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcNMO3bRNCirjD-7Fju87uMSVpZKLRalDsW1nPw1BJZJA9mMU9XaxIXk6Zmx1ZWSCdocFA9sHg1o&spc=_S3wKtenc6nkYayPyoEVNtpcBBPpkPyerpqvOkS0POBu1UtKA-_uTKwl&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2650938&dur=156.201&lmt=1731820012014019&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAIzV-QSHXl46O-XnU-d46PzocQnQVuvOfg0XaI2d9N50AiApSryuoYpifFjBBHRhvfqjvE1gskwbcPcVN6SdC2LO_g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAL35fk7a-WsmE3e4JFNafYA5SWB1v_BXO6BjALyKM9jVAiBrVdrihfW_pSCNXviecDdoJQQiO72cWiUDEFbV3zim_w%3D%3D"
+    },
+    {
+        "title": "Betsy, Мария Янковская – Sigma Boy (Lyrics video)",
+        "artist": "Бэтси Girl",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158429&ei=_eXWZ7PrLoy5mLAPv9aOgQs&ip=81.214.249.150&id=o-AD9yItY6k3G5bZMmpkoanmnus80Eu9d6hz_t2CTxMUnP&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136829%2C&mh=e-&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcPNAbMxsSznoWxTSCLyrqxZHvIu-9uS4gkfneEWt_QAgoLEe_lp7FGED731J3rQoC01k9tZUI4g&spc=_S3wKhCRFWainGFfq3rdRqK6FZGFESYbvnhzaLQh5nN9lXiBoSRVQteu&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2279844&dur=134.421&lmt=1741431878804255&mt=1742136542&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAKKiQDLTk1LijhKmSbE-budWXC-9P2gWu5gp2wqyMgHnAiEAtoZZ_r24ds9r3oD7t-9j1Z9o98fb90kgEjpu1YVGUg8%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgTRpoTV6hxYZC_Qt1qgKd6Sv0t-Mr5AEz7-GjHQhGQ9QCIQCxkPgc9i3VRg89-L5SfGNvUPJR_psxh-TQrU18UaHX9w%3D%3D"
+    },
+    {
+        "title": "Gizo ft. Şenol Evgi - Kanunların Hatunu #tiktok #yüzünegözüneestetik",
+        "artist": "Şenol Evgi",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158432&ei=AObWZ7GrMuDyi9oPldWy2A0&ip=81.214.249.150&id=o-AAgQIIvoY7my2gxqDttLdxMAUUZJfBEnxxsxOrVjg7NS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136832%2C&mh=_K&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcMSq30MG0cQR2eIJmZPcbfoaVUWo-88Y-NE0gBj4Ufx_Lc6JbXkFlQs5dmvI1iDNVA4a6jhvCS4&spc=_S3wKgEtTXQ6A4bKCLLAxindk2lv4eKrfWCtws7tutrbNrwyTqO1rdJt&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2435527&dur=153.541&lmt=1738472582949995&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAP94YPJf0E0aBLPaIL-qpnZJpGpf2PLe1cLSfleDnzMZAiA9ojRAnZkdvVIiVoF6nsRCHFOgv-oLnk6G3jhpm7cVmg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAOfoOPcI9BxpTXvitQespXPxloiNkfUF_HaDcyejmbUdAiEApDdGMjDEvY3tQzpDJ4JOKdt5gKXL3PPO5HvWxeaE1PE%3D"
+    },
+    {
+        "title": "G-DRAGON - TOO BAD (feat. Anderson .Paak) (Official Video)",
+        "artist": "OfficialGDRAGON",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158435&ei=A-bWZ4zhOKuM6dsPzJ6SiAw&ip=81.214.249.150&id=o-AHz-wDYnHkrnkuoly8smcSm4Pmssgase-JJl51csHe4v&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136835%2C&mh=Jq&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zn7y&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcM-2eOHH47EhAype1uJLNnws_xFeXUdGDdGUTzfRTb4rBu30zf0VK92mVzTis7q1Jnz55Yl0mBX&spc=_S3wKjXm7sfKwnNPSp2bYwSPLvTupUnYaqLcdi-V5ivPto8LzbOniAlC&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2564959&dur=159.181&lmt=1741424832344170&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAPx94UkpVe0gfAbybiMQDTq7gYYdADdB7Ls5T-JEb3zpAiEA0AU3skJ-Wicz_3Cde0QMLE27oCwozyOIvkrwg81qLWA%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAL5SHoE4xLMWhIv75cloEfZFCEtGXVhahVB97a9rtP-fAiEAquMgthZcHMPMzMpVBNneWuZF6smhSvUmWtC4FidfVhU%3D"
+    },
+    {
+        "title": "Jeff Redd - PSYCHO [Official Video]",
+        "artist": "Jeff Redd",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158439&ei=B-bWZ8OcOq-KzPsPhMzWwQ4&ip=81.214.249.150&id=o-AJ3iOk-BWmqKX74od1iDGGPgqbVzBvGeTO_bRs3u3jkb&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136839%2C&mh=bV&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zne7&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcOdKZsmtarOl3yBPgRS3ZrknYwevXfct77KPJAHvlKLdg24X329vG83jcLAo3XKmsjUO2Oq2u85&spc=_S3wKr-WWqAVuOOmjnN5OMlYrbTfSCStDtCPw9l8xazZR1HqgJ8jzxKO&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2816830&dur=153.981&lmt=1736018592997269&mt=1742136542&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOvHKVrP0zk0TfHVdLRG8qOP6K5cYAk3uyIQvFsz1KF4AiArZ4aYn1LNgbvyBPGbLwUuIQffljoGuqXTlCJ5ew-Dgw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAJDDcMe_gYqFikK_iQQCvPsM2PcJeqc3XZVHICN6bvXkAiEAsqhis8Sc95MblaLh7zUk-oQ8hvYnU17hHeOPpqJn68Q%3D"
+    },
+    {
+        "title": "Maya Perest  - Yok Bana Bu Cihanda",
+        "artist": "Sony Music Türkiye",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158444&ei=DObWZ4rZG-2xi9oPl4bEYA&ip=81.214.249.150&id=o-ALKdbwtc0tVd3Caxs7GZ89Y3OWF6AwEE7_5z_sLhUSnr&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136844%2C&mh=Cs&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnly&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1711250&bui=AccgBcPrtWHWc-0TULOh1fcbltdZNgOr-MFH4VaE-SqiOXqeReuntNJiYLnsewYxooMBQAh5djFHcg1f&spc=_S3wKrC7_v4H5PG_ZSNKdwlbYsxZHpLus8muzTBtp3jONIDBoBGQurhi&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=5004026&dur=279.101&lmt=1738835061125128&mt=1742136302&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgaLG8107yOr63UjQR-D698wFHlGbSyaOzHUOoDbjpKBICIQCkmDKcwQJGpJSWwFrCnIfnIYB07yth2D4WuU7RxgZUhQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAN3xXxNv_k8o3OBJTfdVleDur_U-E-XIbuCvRc9Bv84IAiEA4brPdscHVpfRYbWlIwx_rIki8P0DrTlu74BDtTI_9yc%3D"
+    },
+    {
+        "title": "Sezen Aksu - Kusura Bakma - 45'lik (Official Audio)",
+        "artist": "Sezen Aksu",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158448&ei=EObWZ4WuC_X7s_cP9qejuAM&ip=81.214.249.150&id=o-AJkrz48h3L4_jRY_4LFD7WKPeiGKZ7RpWdGkk3MmvQ_B&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136848%2C&mh=Zj&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1677500&bui=AccgBcO8nadscIyvd5a2LvifwqBm_Npqr6YrzQPElefnTx_GnaCY4JLNS_igcYiCycXLGLsjG7k-tjy9&spc=_S3wKjaJc2iGUDmv8guc7qxI3Ri9ychvYHEGJ-rr1v0nT12r2cJKChWE&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3625521&dur=223.261&lmt=1714173242316987&mt=1742136302&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5502434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhANwQjuZKbJbDQrub_bNYA-75i7xCXtk4ZvfWfrvJgUnPAiEAjNeIVXlvQfPZgl3jojIqxwNHscUhBa5iXO2HnogsXqk%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhALhxYFyptf0tGS-VhTb1QXPzEOWKeB4mju-HkKnQ3mGfAiEAqy_JHBcfriXyS2TR0GzMRIWIXlsQfYZKXyIrY4OzxeE%3D"
+    },
+    {
+        "title": "Saki",
+        "artist": "Sıla Gençoğlu",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158451&ei=E-bWZ6iNEorsi9oPvpKswQo&ip=81.214.249.150&id=o-AL_g8oSq_KmXg5BnKAIakpOSZg-vyLHpMRrIQGboRlde&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136851%2C&mh=SN&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zn7y&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1677500&bui=AccgBcNUbz3CLxzF-Flnhh_SzSg6D8hQ_ufQu6sxn69Sd3UyAkX5giODAs9pSb3fkapoDvOCHP5T00ql&spc=_S3wKgLvFCvYk2dZnFsfcoowBmGeM8axxH5SOEox6xU5qjvP-Wv4-Abh&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4102991&dur=243.281&lmt=1714912796279992&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAONNsPKTdXClvdhl2O6nOVd8KhREnwtUnw3oq1m8U6lXAiBof5CFv3NBbd-kMmubSiTliF63uwe8hOPf_A1rpkApQQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAMYekCEBEBDsrrYcsUPQlRRZiEBbI--LITIAG1VPBajiAiBN-u7OJqqSXZXpxEWFHM42x1rbBr0EfaTP3o5yeoC5Xg%3D%3D"
+    },
+    {
+        "title": "ERA7CAPONE - DURULDUM l PROD BY. KERO (Official Music Video)",
+        "artist": "Era7capone",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158454&ei=FubWZ8yGFMijzPsPuryJwAg&ip=81.214.249.150&id=o-AOl0tBwDwHHoFzb-8LgmLkbE_m975WBuHMqVEk3v-5OT&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136854%2C&mh=M4&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsy&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcPhsXP7bNj0XHOSiDNPqc3L6JOK_TZW0aaZFzbxSbHnXyPAfVSgJWNiGcVKxzZ_HnjbVrbrgl3o&spc=_S3wKuK2BbvGxV-b69uuYF-ab_z9mbLdVXsuLT463dx5klJF4z_a-s79&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2258007&dur=127.181&lmt=1737595986552874&mt=1742136302&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAKoTfH4y_BqacUFiBlbbcXWvN-UeOma6MFGQxanqaj8eAiEAjSsx8xHY4Tf9BdFA3bV4D2vyqWULBe5NmKo7EIlhZeo%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgF9NhXORBvSdkhdk_CmxnbIKulpvX5PRHDgqq9A6rupQCIQDw2wxVUxPkDFLhGtzfySnx38NbqyRKMwTJR9coxjOBVg%3D%3D"
+    },
+    {
+        "title": "manifest - Zamansızdık | Music Video",
+        "artist": "Big5 Türkiye",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158457&ei=GebWZ869LZ3Pi9oP5YnE8QY&ip=81.214.249.150&id=o-AC6AVPieZCdPKkOQq2enIAyq0_S0SeMzJqb-LCrjzTx0&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136857%2C&mh=2N&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns7&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1711250&bui=AccgBcMNvWjG2XpMI6SeFfjRNHiMyOc3iBLv35-m_8ITuPlJHLLEA9_m3ELCkZfX1nrapSbDNXDAtQJs&spc=_S3wKl7CA7Q-Z9v61RCJ-lEp4mNq-VnqOuxkhmG0jMHU47eW0URhMX0q&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3323500&dur=202.101&lmt=1740859020722165&mt=1742136302&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAIRnUSW1bezkyXzjSFtSQvt9Q28nxqA4fzCrxgWV7eC3AiAaB0vEIby_KfLkKCNN2dFqQGL6AhO9h3ElfE2tEi7a5A%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgPfipS4otjxQZcc5StgxjEArxEF4ma3FBrRYqOYNY5uICIQCdi92dN9JAhvaX3BljGPwJtb6B6wnJDqQzS6UEBX9wXw%3D%3D"
+    },
+    {
+        "title": "Seda Tripkolic - Gözlerinin Yeşilini Özledim (Offical Video)",
+        "artist": "Boğaziçi Müzik",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158461&ei=HebWZ7iSE7jNi9oP6KHK4QQ&ip=81.214.249.150&id=o-AD7d1NiSB31c2564taynQxnIfTRvu9U84_nikMXxAHEq&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136861%2C&mh=lh&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=4&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcNPdixaOj0-ZUF-pHipSqbhbPO2DVnqig3Wkv6FaXCO7wzDZhVv72DIJlJRtB3MYvnnw9j9E5oe&spc=_S3wKnF92WoXat28IOhZGr8BI8K08tL0OhKQ981pvDIPOyC1w43TjxHD&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3378757&dur=203.941&lmt=1726306624301377&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAJfgWUxaYB4wuPj4YpWAAnRsQ02EnvlWkEfumfySVP0rAiAzrpBS1WE83KRzhyX89pmyYqgIKKupqVLdKycyKmFObQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgbs75EkpEzB4yfVYJK7FvlKDSqamm6FS3YNJKmUfRjR4CIQClnlN-XMzrKpiHkgxN1_VWB44NTUw_SG2eK44eewq_Uw%3D%3D"
+    },
+    {
+        "title": "Ebru Gündeş - Duygularım (Lyric Video)",
+        "artist": "Ebru Gündeş",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158464&ei=IObWZ5rIF6qM6dsPtJ2N4AM&ip=81.214.249.150&id=o-AEBWlnpthijdHXmv1wYykERmwVnmgNMv3hk7FAzklPG4&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136864%2C&mh=y6&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcMB5oY0DsQ4LHY3c2lcJRuQxw50_68Bf9p9iINVbkleBabxW7KLjoypEb-ApcuPkFtYI3UxSjX8&spc=_S3wKl6NLGo6f-Vooy4MqSd7876z8ndgb-llJKNnN-BuN-dOH0biH6zJ&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4598724&dur=277.021&lmt=1740816742608380&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgaEkQIPiLactRPZ9wbiwXx2tXQVcAC8VtQ4LX7NwyjlACIQCxMfP4wThfJRfX6tDrBiLmcqxU70tDFaTBEnLzdBJcDQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAP3rA6sun2dQjbrCrHVk2IthiA3FuRSSJItxTES6u51rAiBw9I-sRLGbvzzyvlD54yaMZqyXy1ZRt6WGkSl_0cAI6Q%3D%3D"
+    },
+    {
+        "title": "Damla Arıcan - Giderim Senden (Prod. Yusuf Tomakin)",
+        "artist": "OfficialYusufTomakin",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158467&ei=I-bWZ_bWHamYzPsP_7isgQQ&ip=81.214.249.150&id=o-AHL2oRH4_Trl312nqUwFc0oyNcW2IfoIAGCAJDBRjRVV&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136867%2C&mh=fk&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zn7y&ms=au%2Crdu&mv=m&mvi=2&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcM62qu2eeiTT7rRVr_NDjbNUCtagjnZG8h08m_9-lsEgwGDVaKqM3RXTYpbc7ZihAQgp4_Nl1C7&spc=_S3wKs0Z8xaDXr-jJMDkU35bQraUrTUD4y-XzbMWWs-A0DryYpf4l2Ns&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3974577&dur=244.821&lmt=1726277833046752&mt=1742136542&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgLR3FY5s78eMcrcueMSRcePnwarbi950ctHMP_gzCCDUCIQDwKmUMfHsvzHv6bHVDGAPq2vI7w88lRxiZynjBS42EUg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgG-xlYKzo3H7WglIlzreU2NueeDN-ir8BrY7Y_YMrl94CIQD7yPB1jQtROLZaEa9kLp2LNIeeqizz7KoijEaWQD-lpg%3D%3D"
+    },
+    {
+        "title": "Kurtuluş Kuş  & Burak Bulut - Bundan Gayrı ( Live Bostancı )",
+        "artist": "Kurtuluş Kuş",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158470&ei=JubWZ4PnMOrwi9oP8rvm-Ak&ip=81.214.249.150&id=o-ACL20ljwy0LzP1ccATB6RJrTJyX-JNwfFGueHpCxLIkw&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136870%2C&mh=MW&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=3&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcMXlrjRZYOvrkzA6SJROktxZVGS35mNALYGzBvwna73C9vsjNhXNbX0NupYt5tt33jhSh18YZGU&spc=_S3wKt4ViOXlQ_f-dtWNDqe93AUdlkiBhfdoHkhI6uSj7mgZi4Homjsp&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3521164&dur=203.261&lmt=1740568828652881&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgBQcB6tDKrU3hFnqZbvGW-darYKnd04t4z4Ka8KYkz1wCIQDWm_Ul1KlSMd1cmWe7srtScSqxrfplhVMdRlhwA9XPiA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAOkU6CRAKVjsL4OpzvWZYAouYHvUHb67pQTi-lBU5qdvAiAm555Qtc0vDIbHvGyePFAkaqmNGFJjnYF1d5dgPJdb1w%3D%3D"
+    },
+    {
+        "title": "Ahiyan - Doldum (Official Video)",
+        "artist": "Ahiyan",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158473&ei=KebWZ-WxNa-KzPsPhMzWwQ4&ip=81.214.249.150&id=o-AId5F2eKoGEKvb_aHYj9kaFAaba4YAMCclZXf0PXJGFx&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136873%2C&mh=2Z&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsk&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcP8p66EZnmuKXhBgyQfNqXAJOMUpGjrHbiL03vCWTMYnw1o0Hr1g39ZDCloGbjWbgSUqiRmSyeb&spc=_S3wKqBBqMfbDAOuQQf43UUDi_LixZIqIUk1rfGoWIOxYWuFdI7q11NV&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2604372&dur=146.781&lmt=1733252892738385&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgXReW1I1SClP539ScJNXKn8Lr2pe0DjFSswX4Mnhd_pkCIQDr4QnRN71y7JMqFMU6Nu2uyCWSBA0JzszWRknE18gdhg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgJb_YWrUZnViA-8Q9danAoX5aZFljOUB-qZgOY09Sg-kCIQD_RwkeZt6pTwhAsA21SnTAYAW5jIKiDbcjgEsNjTJYzQ%3D%3D"
+    },
+    {
+        "title": "BEGE X REYNMEN - HER GÜN AĞLADIM",
+        "artist": "Berkcan Güven",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158477&ei=LebWZ-uzB56izPsPxpzk8AI&ip=81.214.249.150&id=o-ANsRRHJEwcWeMcWzIOt3xUFKFderV5NVsiOr08jlGmTu&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136877%2C&mh=rE&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsy&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcNY7ZBg-E799JzDe2A-3YL36grPhW5spgVP5JU84rFzi7gU2cpp4yPIxYJdYR1ueH_YnkTKVHEp&spc=_S3wKmm7NRGeUU5PuzMo5nA2mTKHIdnRGfPoaNXz10NvsfkBaRDoBZLE&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4021863&dur=233.861&lmt=1737407981034605&mt=1742136542&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgDQ8jHGXIzRcMGK0AmBG51js7XU_O9RjassrRCeXGqd8CIQCW64mg57Mf5HS9tp1_oqG1vHiP2SM__wdq2o4GX7KiiA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgI0zXaGN_UFUI-eLGjeetLLoenfvenh9TojAkdkrhNJ0CIDKJ64nISpYFHX7r4tm2_blH4JFKB_aO20vlrYY9W4tf"
+    },
+    {
+        "title": "Sabahat Akkiraz | Bergüzar",
+        "artist": "Akkiraz Müzik",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158480&ei=MObWZ_byFtSEsvQPs6ueiAk&ip=81.214.249.150&id=o-AIoaSRsvgxc6fmeGtruIIeklqFwWK3xecNszvz1-JtiW&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136880%2C&mh=Vk&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnsd&ms=au%2Crdu&mv=m&mvi=5&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcOzuBtFuf_sFMkT0RH2wMIBfBovlBYKjuD-pTaEf0TNd7BQ9w7DKIaXc9b3bfu526yz8KFNVT3s&spc=_S3wKojM_LqtKKOP-AlP7ocxSlCx_sfwrBHtMgkUUhaxIDYuZJ7FwZ3G&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=6396681&dur=374.341&lmt=1728127948277577&mt=1742136542&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMbJC6hT7NUsWfOI3aIQovkiBYCBLE2443iDam6o1rlaAiEAomJs-x9k2U0VndybBfzjenMLP5F7tNt2dchCKNALVoo%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgNW7g9nXUM9i6mZNAzvuxOd8ttjwE3lRUHOnk-Aph0LsCIEmJ1O6ZRo2qTqkq528TBmbe0CNPWuJVcgSPXcmwEKkw"
+    },
+    {
+        "title": "Gizo ft Şenol Evgi - İyi Ki Sen #tiktok",
+        "artist": "Şenol Evgi",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158483&ei=M-bWZ5r6IrnMi9oP7JTv8AM&ip=81.214.249.150&id=o-ADx70h3FnqGReXLV8JNkc63qTvfVr1md8xpstRtHWgCp&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136883%2C&mh=Id&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcPb_2hHDcmLkEngkOwZYVdX22TeqRKGNWzD2r-j8VePa3RWSQ_KzkELYFgQ5RckOLqj__JAF6ou&spc=_S3wKmV5DOhYPHUWgvb9_D0wHrAHp6hzrLjqT_5MfKy8jsiPNWLBUcze&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2347480&dur=142.581&lmt=1733003917167476&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAODEHbjhbAwmMoAyx111Js-V4TANXd382Llrp7WuG0fyAiEAuy6bAlnKNRrRI_k-MJRes8SPcOFoQisxsV4sFwnTQqU%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAI_25X8t6RlAjl-UCP9RD0sutQUAggnlCRMy54hkiUxSAiEA3-IotZJcT-4yKHS54_cuU2PG_Hku0-2WkAMiWstOcQc%3D"
+    },
+    {
+        "title": "Korkarım (Ahmet Kaya)",
+        "artist": "Ahmet Kaya",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158486&ei=NubWZ_TNN5GwsvQPtN6lkA0&ip=81.214.249.150&id=o-AEqzpiQ4vU0KfRWqu7l1ggshcZaRO2fW1d6ACFqXtOzX&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136886%2C&mh=gJ&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcNVxq0kUTL3jRHVnveY58MDY-jnRMcdR6yf1Kj1z5nuytKENIfhoaCXGaJMntHWS05Nw_ocrpPS&spc=_S3wKi-HF5El9VA3cxNNkbQxzZ3mJ8aTuLWX_gEFMnbrCcq3dZ3EgsNy&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=5352491&dur=294.641&lmt=1736973275498559&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhANcpzmWruXetKsj0y7bDCG4ERr1EoUvIJGgcqfPNvIM0AiBl9l1wJQJlowzwqRJwqrxLapPUM-pOVYw5edGQBs8Yew%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAM-htxicVS8SJX3jL-vsYrvGPoamRYC8haZ96Qg5-iZOAiAQhe2CBPrahnrfOWeo06v9d3CQH4PM1LcIVz2XSabIGQ%3D%3D"
+    },
+    {
+        "title": "Atiye - Salla (Official Music Video)",
+        "artist": "Atiye",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158490&ei=OubWZ-v-BLPsi9oP3JXC8Qo&ip=81.214.249.150&id=o-AOmfVgR5sKdAAMcnDUSKONR4Gl13kZxQTzmDpoO4NiBD&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136890%2C&mh=YE&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1653750&bui=AccgBcOyX2ESnisKpM7dBiT77jPl6xlkdBVZMKBWbb4hYjwprIsEMmlwGJ1him9U2PdI2-4XNFTojb5I&spc=_S3wKnaXE3j4GIL7gcB5lnHHOIQshs4_7-1sVVGdjWgoYw9kEpEftkvn&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2739685&dur=210.461&lmt=1735822732713376&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAJUMO_X8rxPQfa3vdlV3nTRKzVit_Lxkry5uGoi1KEsVAiEA_Ewv0JY0T-vEAg9JNY5yi5CEhmP3UVwPh_KLyVeA6_0%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAL7EtyIJEJYxp4dPolQbhLmHwk66gxwgo96jz6pZBDGZAiEA3ZfR3FeMqIOay2ZMN-GIA-8962elPBPAv8LFOtqbVPo%3D"
+    },
+    {
+        "title": "Giz - Bu Ne Bela [Official Video]",
+        "artist": "TFB Records Türkiye",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158493&ei=PebWZ8mAMYKxsvQPv_rFoAY&ip=81.214.249.150&id=o-AFS0JHf7ww4wqcCbKj3NsDYCphc8f6eFd0j7Aehww3BM&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136893%2C&mh=1C&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47ln6e&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcOH1VmqqSaj-iskDmYdLTi2gm65ugoQ_eA6bFY4E26MHYYD3kPsJHIysNOyfQG8ScCeo7xHe4mx&spc=_S3wKl-zCzrHAad2nqKsoYudqeGNHzjVxzFXxZksq1GmJe4HFkAVQPKf&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2705024&dur=153.261&lmt=1729912481904703&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgc8DVwBzHuMU9QbnqiITztfc6J2J8kqqBgUINefh9yhsCIQDlWh7hFdJIcRk2e6fWGJKxzxhZtGx_Ccn-lw3qQUv4mA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgejvs4Jyw3onLmx83BOfBGnDEd0uGfblYzYR0GiUI3vICIBe4lfLeLbOPUwCU5f8tDk6RL5qlU9Je_Wy_JhZsEC_s"
+    },
+    {
+        "title": "TARKAN - Dudu",
+        "artist": "Tarkan",
+        "audioUrl": "https://rr2---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158497&ei=QebWZ9ClC9WIzPsPp8O16Q4&ip=81.214.249.150&id=o-AJtk2qAPBMngwC2l3pxArBJpZUiSoCaVGmKb8OW2HzL8&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136897%2C&mh=CC&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcP4dSGBnkRFFdikW_IrSSmIui7pnQ29dkrAskMHxDP3tjUfH-BQa9pWjm8UeVguDyBtoYIVCHlm&spc=_S3wKgTksoapSgRalRiLBxRs01cX0Gq7pIvvMhnNTGZVfcfxUQ2E70f8&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4206051&dur=263.941&lmt=1726441756967811&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAJNPshaluAG21XNC3oogw9Yzs1ahkP_77dSv19F7NysYAiEAlLfsCSnw4or7U-D7YXERFZF7o3MXLZggBYTI0oCO-W4%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgSyJRCzFEoyu0Lja9NHfORzteWB2xvRbSJBiOuvSGYYUCIQCy2YDWxGxi35hJkC-3Ytwu8KJTk-GIa1WBK3WakxrtIA%3D%3D"
+    },
+    {
+        "title": "Bengü - Heyecan",
+        "artist": "DMC",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158500&ei=RObWZ-zGEbi06dsP0ODx2AM&ip=81.214.249.150&id=o-AE6k35fz1gfTYeHzI-MlkL5QPVLhLocZd5UvJF9BIn9u&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136900%2C&mh=14&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zn7y&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcPkWTFQI64DRZ3NPckJAoJE3eindSTzkRQ0c4SKXSlRknT9IhpuouLHs3h1NMqyFmLSyFqHuOZh&spc=_S3wKinHlw4khKvtk-qVmUXYyB7P63TA9VkZduu9Os8sR_krHxLtyWx2&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3426056&dur=201.581&lmt=1737289005182305&mt=1742136542&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgNqqECydsyBBhEMtysVjX9vW7K1vXzt34-X5J2o0Oq5gCIQDA0KIjfTmpZcFgSmxh8Rwgd2ryKpx10tJosdtBrm1hTw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAK1jnnNnnW-d0QI-I3QdsLwjPmKKPw1PpaHemd6tbBrCAiAQDsNtGI-AbSuz5B2B4ShhkufRsKvbhc1zYjaXwl0OCw%3D%3D"
+    },
+    {
+        "title": "ZEHİRLİ GÜL",
+        "artist": "Blok3",
+        "audioUrl": "https://rr3---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158503&ei=R-bWZ67eHPDmi9oP3ZeEiQQ&ip=81.214.249.150&id=o-ANLBP9HAa5aO_YIxVjfC3cRYKEnds7n_xSSjIlmoQWaf&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136903%2C&mh=oR&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1653750&bui=AccgBcMDx3Lw6dwLxsUKWgqasUAOF7Ir44FSX6eHixXNkPUwpu--TFmfhEZ2c8-xMCRR_YuIZf-DqT0o&spc=_S3wKprKS-ytmr6URCJD-0ifq_tnCIqCnXS_A8T5icABu_DcrVdYtbsM&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3193029&dur=176.841&lmt=1725958757531627&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=2318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgF_o8B_HienA0kL4suMemyyMrri48_7Th7Q1KKBaLfHoCIQD0l9AqnjpPVwbn5QNClpwk1MEwSuyr2b7yFzvIsfuBIQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgd1J_MRBaCt16iqkaBVqFE_d3gW-2v_VXwZlIinqwI5wCIChc_5KhHPGWFMnkjmnh9FJHON4uJF4VdIVqMF6YKsz2"
+    },
+    {
+        "title": "Melike Şahin - Gönül (Live @Harbiye 2024)",
+        "artist": "Melike Şahin",
+        "audioUrl": "https://rr4---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158506&ei=SubWZ8OOJ9_Pi9oP4qjW0As&ip=81.214.249.150&id=o-AEG_n3I0zIAw1iwUp1V8bBPUS-waHZGPZiOTD6BRFZ60&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136906%2C&mh=J9&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47znel&ms=au%2Crdu&mv=m&mvi=4&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcN5R5Vn-lo492PNRn1z2bnmGPy5oCQXuVcRO0z7syDpgLweyuU1HX3z1uUTbcj5UEJ_Bt3tIR3j&spc=_S3wKkG_yle8gI0a7D8P4dAi4Exog22oV8FU6LxsMqn1PYjNYHK-1U4d&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4843282&dur=276.581&lmt=1738309763917804&mt=1742136542&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAIhDvSaq3FhgmhNhJG2MHMi29YetWM-ZABkfpsZiTe5oAiEApue3iV9VF4-dP_0qYwH2lLAqgSAjIUZn0EMTDdTZyrI%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgHI9Pa-vlFlp5Rg8nPQItD4q3Don5CflwX3XGO0q-AqsCIQDndr0fXqK_yG0FsYlYnnUCYLynDZq0fCxtvZY_uSMv1Q%3D%3D"
+    },
+    {
+        "title": "İsmail YK - Bas Gaza (Official Video)",
+        "artist": "MuzikPlay",
+        "audioUrl": "https://rr5---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158509&ei=TebWZ4zJN8DRi9oPut2QoAI&ip=81.214.249.150&id=o-AFMGRFmr0BF3kwqav9Dvj8nLYFt2t2qBwYBSk1KV8K4B&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136909%2C&mh=DW&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lns6&ms=au%2Crdu&mv=m&mvi=5&pl=24&rms=au%2Cau&initcwndbps=1665000&bui=AccgBcPk0H4JZJRefgm9NYEoHoZ4a6GHgvI5PUDMRHovPCotX0GjSMgkFU3aB1g2o4EsPb5g5K3DV_jt&spc=_S3wKoYERA6OHjFPj0eLNaCEHXODCsLvkGDMEML8zPQfaWvKePQI_QAz&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3935000&dur=247.921&lmt=1700351770592518&mt=1742136781&fvip=4&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgd_RbDrMpNyiPLgtpJwoSBhVRAEBftCXqxfYqgRe5ZMsCIA5--78wdC7MoWlt91N8I1MHd6IzOJMkZenWoLXK4Hdt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIgHD_Gk2d9pYVodUdXcd4L-YfXK_FOm1doV5T39FpCZzECIQDuFqEyU6UC-7RcVHgjydaBnF3G5UrB724-NgKZnRoaqw%3D%3D"
+    },
+    {
+        "title": "NUNCA MUDA? (Slowed)",
+        "artist": "ScytherMane",
+        "audioUrl": "https://rr6---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158512&ei=UObWZ92cBJrxi9oPoajpyAw&ip=81.214.249.150&id=o-ALvnOpEYNcmLCL1l36Y6JqEfvVuA8E7XNCwv_K_9fYkx&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136912%2C&mh=wU&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnly&ms=au%2Crdu&mv=m&mvi=6&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1653750&bui=AccgBcNjxANJi3v2x1lZ4J23j4diS-anXNAlZqsDZqKPoAmxASj7cG84vRavjETHAgQtXibe8VRBATrt&spc=_S3wKlbxqz0bqrQa4VBVnVLQ81f6i3mWudSNtj8eQydGiIG5YTiprGh-&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=1816121&dur=90.581&lmt=1740615006215935&mt=1742136542&fvip=5&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=2318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgYBZ4M3h3IhEFpCZjGMQnjwbh-TygGVpstSqbUbGQU0ICIFc3DgcNgQ747_h-ioW9Ey4TxpQolxQL8WdBg3Ze2u9-&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgWgwx_36Lrkt8D_NoFpHyd-A4GLt6LzrFmeKo705sMucCIGUfG3pbZNtaP0g9LM8gs__JmVHix3BHwuaJ07cTC_3J"
+    },
+    {
+        "title": "Burak Bulut - Özür Dilerim",
+        "artist": "Baş Müzik",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158515&ei=U-bWZ9nWJZGbzPsPsP_umAo&ip=81.214.249.150&id=o-ADg0b-SuxIt4C3PSodRm-ghwY3A3LR-aFfAYh1fi7kHL&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136915%2C&mh=qK&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47znee&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcNblIJO6DBOCCUcV7SX6L2USZgPBGAY0mJOyBcQ7JbfejpGQqv19--oBpIT9b70haW4DTUZjVNV&spc=_S3wKtJ7B77W8ZZb0zKKpFTqqMFHsKyyPMThZvbd-69ipUtSgahTEsh3&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=2726674&dur=155.901&lmt=1738105083268542&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgTXifBpr0QrSjeOPNLh-ZocvxaU8_01RmlONCSewB0soCIGG08nsUrob5dYSLNrS4tagJWns78uEbZlxVks1VUBrg&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgSa_-d5VFd29VQac-_UuehkNlWGg5INWmdvwZA9_wqJkCIDukJUcqpZfRYKsjmOmEckogcOGtgUydXen1cUJ4oxww"
+    },
+    {
+        "title": "LISA - FUTW (Vixi Solo Version) (Official Music Video)",
+        "artist": "LLOUD Official",
+        "audioUrl": "https://rr1---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158519&ei=V-bWZ_19tc2L2g_47r3JAw&ip=81.214.249.150&id=o-AFMohiBd3gxhKk5XFGTetT-URkjliMyib06b1tyPwepU&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136919%2C&mh=en&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lnsr&ms=au%2Crdu&mv=m&mvi=1&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1670000&bui=AccgBcOzFnZedACeip397haiAlItj0SyNrsOIwVXd03gb-KgemP16V0SGqLwSUEKZC6m3SRqyr-7Ba8_&spc=_S3wKuHq20qRXX1wm5xHSEeUoLSB80PTvgNF87l2tiRk9tr0RWGohUXw&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3442131&dur=227.961&lmt=1742030249227736&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4532534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMChbIaYXBFksSkwXhnmMxcDI2lJSE8zgZrh4i8Qc1pxAiEA0uM40b7JjEzDXbFyOWL-5ndWFfa94OszLcWPiLsDUDU%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRgIhAPYWFzHevrlx9u3Kf55Z84Klc4S9h6ei7KOxLWNxxCIwAiEA3QcCP6y27ZPBXHV98LHblk1CcQohhDYVqK3vGQdDlVw%3D"
+    },
+    {
+        "title": "Kayra - Mesela Yani",
+        "artist": "90bpm",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158522&ei=WubWZ57VGtu1i9oPyLOhsAc&ip=81.214.249.150&id=o-AB534lDrwswX6HrMXX17NmukUYcXrL0cRmYeBeJsTIlf&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136922%2C&mh=63&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zn7r&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&initcwndbps=1670000&bui=AccgBcNcSgHnYI0_6WNciu1phBwgDzPdPhT-eHUmc-wSDnCDogiRvQLaYoTgHbEwcVp1UkGVr5QEdUWO&spc=_S3wKh21zp3wRnYK6HJUGKHqHE4-Ko-DNtD7IgqnByOZXtyQFXZdvBqB&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3531679&dur=217.421&lmt=1714103671796431&mt=1742136542&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=4502434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgFGjT99YPM7jjlLfHHLZFKSVkCoUOGXDevanZoGQFOjICIEFv_qssBdPpG5FdMsZKVhHgOWXSRo-xgmQOfOl5VMqw&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhALHLjKnoQjfMPDb1MimHyTb6PWOUImKwlRr5s6sQABUSAiAKdpMQi9UsuCd2Ius3URVQdsQam27oZEzHMwgFRJkQmw%3D%3D"
+    },
+    {
+        "title": "Heyecan",
+        "artist": "Serdar Ortaç - Topic",
+        "audioUrl": "https://rr7---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1742158525&ei=XebWZ6fNLq-gi9oP0vCi0QM&ip=81.214.249.150&id=o-AFLhLu2VV-yI4A2LgnoY9URqyCtxF1ZGz3-vb16cVijl&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136925%2C&mh=z7&mm=31%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47zn7y&ms=au%2Crdu&mv=m&mvi=7&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1670000&bui=AccgBcOgmXFASIcWjZ2-QCLUQ5VxwcUPFM1q5smgbiPFS45Xf4ow3pHfeLtSODTkAQU1yp-o048asabk&spc=_S3wKoVgJ6Z_lia9RuyAvX7YJr9yFjcIos3iCcQbXMsSMncZTKxsYeG4&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4573162&dur=284.281&lmt=1714737800298927&mt=1742136542&fvip=3&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAKTRT2O744jxuTfojUw3EnMnpATpi2DQar1f3vKaE4_uAiEA6FLRiACi6Q9yMQ2SVGp9EX8o0C85y0gDVJiPtj-v8As%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRAIgaKqll0lRTaOEy1cEjmcaT2CTzaKGfoCa6WZ0qA2OQPsCIAW6vTS1yn5aFtBmZ4pKwdtq2uSLX-FVIIaMLvA-YAeV"
+    },
+    {
+        "title": "Mühürledim Seni Kalbime (Bir Hadise Var)",
+        "artist": "Hande Mehan",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158528&ei=YObWZ7etMb_Mi9oPzqXHiQo&ip=81.214.249.150&id=o-AO3icqaaME5pKRHPTQxwqqhXnJx-oY8eqgPtZlQNhmS_&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136928%2C&mh=8k&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47zn7y&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&gcr=tr&initcwndbps=1653750&bui=AccgBcMf2-ge0P3B0730VYz3Js4PkRpG3rkRyBGI_xB5rlmjy-IAMNV9uiAuit7yfnODq2m-C_R-G_kQ&spc=_S3wKp3dVUMbJfYzKY_DCNBaYc0A8FGrJAOjF5V_DZ4b5B_ZFukbqMJ7&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=4302169&dur=234.981&lmt=1739866142258183&mt=1742136542&fvip=1&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=2318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgcgTfoJPGBSt6tkn_W4qNSt1l4Neo_J3uLLdjwiyOCRoCIDAkMbpaGaq0ymHqy46BRvr0koFzm27nxG6py-f2-qH6&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAN7MchW3cVLexHB4IwhMdBs0OkcSaCbQ0nVwj8IA_YyyAiA7Jd2NphspqjYdt3iYiT973cKFnPN6De-n83FmODWL-A%3D%3D"
+    },
+    {
+        "title": "Sertab Erener - Bi Polar (Lyric Video)",
+        "artist": "Sertab Erener",
+        "audioUrl": "https://rr8---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742158531&ei=Y-bWZ7SYLr-wsvQPosXr-A4&ip=81.214.249.150&id=o-AOb3ulhEBPzgBkPh4FiLW5bXR519iSzUGYVi7CZqmv6F&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1742136931%2C&mh=yW&mm=31%2C29&mn=sn-u0g3uxax3-xncz%2Csn-nv47lnly&ms=au%2Crdu&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=1653750&bui=AccgBcOM2IrhUB3tGc6m9cKVBA345bFoqy_q0oRqGz6eR1n9KJ-TvuBr78DXQNjidBECNeru0hVrjecC&spc=_S3wKrBqBBIZK9tlY6r5EVj-4yRhZHKNJyB7WXkh2-EdGsyRbB2lqEul&vprv=1&svpuc=1&mime=audio%2Fwebm&rqh=1&gir=yes&clen=3122140&dur=192.161&lmt=1732397182734451&mt=1742136542&fvip=2&keepalive=yes&fexp=51358317%2C51411872&c=IOS&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgJbB4FJxLNCXeJEPI_y5_sV7wY94g-7dtkFc_LROSbVsCIQD4TCLlIm4szzWgMB3LVFXfWhzmLHCYrMJXbbfCmtsJiQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AFVRHeAwRQIhAOLXLyZ3rwR6ncPd5RRRWMmiZCr9uQlP4Ll3Q3rBxNU8AiBte6Fe7kPAjm5vd--sqoYznZ7JAeKYoK4eOA6cRhntNQ%3D%3D"
+    }
+]

@@ -1,12 +1,6 @@
 import yt_dlp
 import json
 import time
-import threading
-from flask import Flask, jsonify
-
-app = Flask(__name__)
-
-JSON_FILE = "top100.json"
 
 def get_top100():
     playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
@@ -34,45 +28,32 @@ def get_top100():
                 title = entry.get('title', 'Bilinmeyen Şarkı')
                 artist = entry.get('uploader', 'Bilinmeyen Sanatçı')
 
-                ydl_opts_audio = {'format': 'bestaudio/best', 'quiet': True}
+                ydl_opts_audio = {
+                    'format': 'bestaudio/best',
+                    'quiet': True,
+                }
                 with yt_dlp.YoutubeDL(ydl_opts_audio) as ydl_audio:
                     audio_info = ydl_audio.extract_info(entry['url'], download=False)
                 
                 audio_url = audio_info.get('url', '')
 
-                tracks.append({'title': title, 'artist': artist, 'audioUrl': audio_url})
+                tracks.append({
+                    'title': title,
+                    'artist': artist,
+                    'audioUrl': audio_url
+                })
 
-        # JSON dosyasına kaydet
-        with open(JSON_FILE, "w", encoding="utf-8") as f:
-            json.dump(tracks, f, ensure_ascii=False, indent=4)
+        # JSON olarak kaydet
+        with open("top100.json", "w", encoding="utf-8") as json_file:
+            json.dump({'tracks': tracks}, json_file, indent=4, ensure_ascii=False)
 
-        return {'message': 'JSON dosyası güncellendi!', 'tracks': tracks}
+        print("Top 100 JSON dosyası güncellendi.")
 
     except yt_dlp.utils.DownloadError as e:
-        return {'error': 'YouTube engelledi mi?', 'details': str(e)}
-    
+        print(f"Download Error: {e}")
+
     except Exception as e:
-        return {'error': 'Bilinmeyen hata!', 'details': str(e)}
+        print(f"Bilinmeyen Hata: {e}")
 
-# Flask API'si, JSON dosyasını okur
-@app.route('/top100', methods=['GET'])
-def top100():
-    try:
-        with open(JSON_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        return jsonify({'tracks': data})
-    except FileNotFoundError:
-        return jsonify({'error': 'JSON dosyası bulunamadı!'}), 404
-
-# 3 günde bir çalıştıran zamanlayıcı fonksiyonu
-def schedule_updates():
-    while True:
-        get_top100()
-        print("JSON dosyası güncellendi, 3 gün bekleniyor...")
-        time.sleep(3 * 24 * 60 * 60)  # 3 gün (saniye cinsinden)
-
-# Zamanlayıcıyı başlat
-threading.Thread(target=schedule_updates, daemon=True).start()
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+if __name__ == "__main__":
+    get_top100()
