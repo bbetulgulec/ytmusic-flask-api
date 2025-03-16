@@ -1,34 +1,29 @@
 import os
 import yt_dlp
+import json
+import time
 from flask import Flask, jsonify
+from flask_apscheduler import APScheduler
 
 app = Flask(__name__)
+scheduler = APScheduler()
 
-# Render ortamında değişkenleri kontrol edelim
-PROXY_URL = os.getenv("PROXY_URL", None)  # Proxy varsa kullan, yoksa None
-COOKIES = os.getenv("COOKIES", None)  # Cookies varsa kullan, yoksa None
+JSON_FILE = "top100.json"
 
-def get_top100():
+def update_top100():
+    """YouTube Music Top 100 listesini her 3 günde bir günceller."""
     playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
-    
+
     ydl_opts = {
-        'quiet': False,
+        'quiet': True,
         'extract_flat': True,
         'force_generic_extractor': True,
-        'sleep_interval': 5,
-        'max_sleep_interval': 20,
+        'sleep_interval': 10,  # Ban yememek için minimum 10 saniye bekle
+        'max_sleep_interval': 40,  # Maksimum 40 saniye bekle
     }
 
-    # Proxy varsa ekleyelim
-    if PROXY_URL:
-        ydl_opts['proxy'] = PROXY_URL
-
-    # Cookies varsa ekleyelim
-    if COOKIES:
-        ydl_opts['cookiefile'] = '-'
-        ydl_opts['cookiesfromstring'] = COOKIES
-
     try:
+        print("🔄 YouTube Music Top 100 listesi güncelleniyor...")
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(playlist_url, download=False)
         
@@ -44,19 +39,32 @@ def get_top100():
                     'artist': artist,
                     'audioUrl': audio_url
                 })
-        
-        return {'tracks': tracks}
 
-    except yt_dlp.utils.DownloadError as e:
-        return {'error': 'YouTube engelledi mi?', 'details': str(e)}
-    
+        # JSON olarak kaydet
+        with open(JSON_FILE, "w", encoding="utf-8") as f:
+            json.dump({'tracks': tracks}, f, indent=4, ensure_ascii=False)
+
+        print("✅ Top 100 listesi başarıyla güncellendi!")
+
     except Exception as e:
-        return {'error': 'Bilinmeyen hata!', 'details': str(e)}
+        print(f"❌ Güncelleme başarısız: {e}")
 
+# Terminal kapanırsa bile en son veriyi döndür
 @app.route('/top100', methods=['GET'])
-def top100():
-    response = get_top100()
-    return jsonify(response)
+def get_top100():
+    """Son güncellenmiş Top 100 listesini döndürür."""
+    if os.path.exists(JSON_FILE):
+        with open(JSON_FILE, "r", encoding="utf-8") as f:
+            return jsonify(json.load(f))
+    return jsonify({"error": "Top 100 listesi bulunamadı!"})
+
+# İlk çalıştırmada güncelleme yap
+if not os.path.exists(JSON_FILE):
+    update_top100()
+
+# Her 3 günde bir çalıştır (Gece 03:00'te)
+scheduler.add_job(id='three_day_update', func=update_top100, trigger='cron', day="*/3", hour=3)
+scheduler.start()
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
