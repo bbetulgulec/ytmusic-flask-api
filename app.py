@@ -1,70 +1,72 @@
 import os
-import yt_dlp
 import json
 import time
+import yt_dlp
 from flask import Flask, jsonify
-from flask_apscheduler import APScheduler
 
 app = Flask(__name__)
-scheduler = APScheduler()
 
-JSON_FILE = "top100.json"
+# JSON dosya yolu
+TOP100_JSON = "top100.json"
+UPDATE_INTERVAL = 3 * 24 * 60 * 60  # 3 gün (saniye cinsinden)
+
+# YouTube Music Top 100 Playlist URL
+PLAYLIST_URL = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
+
+def needs_update():
+    """JSON dosyasının güncellenmesi gerekip gerekmediğini kontrol eder."""
+    if not os.path.exists(TOP100_JSON):
+        return True
+    last_updated = os.path.getmtime(TOP100_JSON)
+    return (time.time() - last_updated) > UPDATE_INTERVAL
+
+def get_audio_url(video_id):
+    """Verilen video ID'sinden doğrudan ses dosyası URL'sini çeker."""
+    ydl_opts = {
+        'format': 'bestaudio/best',
+        'quiet': True,
+        'noplaylist': True,
+        'extract_flat': False
+    }
+    
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+        info = ydl.extract_info(f"https://music.youtube.com/watch?v={video_id}", download=False)
+        return info.get('url', '')
 
 def update_top100():
-    """YouTube Music Top 100 listesini her 3 günde bir günceller."""
-    playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
-
+    """YouTube Music Top 100 listesini günceller ve JSON dosyasına kaydeder."""
     ydl_opts = {
-        'quiet': True,
+        'quiet': False,
         'extract_flat': True,
         'force_generic_extractor': True,
-        'sleep_interval': 10,  # Ban yememek için minimum 10 saniye bekle
-        'max_sleep_interval': 40,  # Maksimum 40 saniye bekle
     }
+    
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+        info = ydl.extract_info(PLAYLIST_URL, download=False)
+    
+    tracks = []
+    if 'entries' in info:
+        for entry in info['entries']:
+            video_id = entry.get('id', '')
+            audio_url = get_audio_url(video_id) if video_id else ''
 
-    try:
-        print("🔄 YouTube Music Top 100 listesi güncelleniyor...")
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(playlist_url, download=False)
-        
-        tracks = []
-        if 'entries' in info:
-            for entry in info['entries']:
-                title = entry.get('title', 'Bilinmeyen Şarkı')
-                artist = entry.get('uploader', 'Bilinmeyen Sanatçı')
-                audio_url = f"https://music.youtube.com/watch?v={entry.get('id', '')}"
+            tracks.append({
+                'title': entry.get('title', 'Bilinmeyen Şarkı'),
+                'artist': entry.get('uploader', 'Bilinmeyen Sanatçı'),
+                'audioUrl': audio_url
+            })
+    
+    with open(TOP100_JSON, 'w', encoding='utf-8') as f:
+        json.dump({'tracks': tracks}, f, ensure_ascii=False, indent=2)
 
-                tracks.append({
-                    'title': title,
-                    'artist': artist,
-                    'audioUrl': audio_url
-                })
-
-        # JSON olarak kaydet
-        with open(JSON_FILE, "w", encoding="utf-8") as f:
-            json.dump({'tracks': tracks}, f, indent=4, ensure_ascii=False)
-
-        print("✅ Top 100 listesi başarıyla güncellendi!")
-
-    except Exception as e:
-        print(f"❌ Güncelleme başarısız: {e}")
-
-# Terminal kapanırsa bile en son veriyi döndür
 @app.route('/top100', methods=['GET'])
-def get_top100():
-    """Son güncellenmiş Top 100 listesini döndürür."""
-    if os.path.exists(JSON_FILE):
-        with open(JSON_FILE, "r", encoding="utf-8") as f:
-            return jsonify(json.load(f))
-    return jsonify({"error": "Top 100 listesi bulunamadı!"})
+def top100():
+    """JSON dosyasından Top 100 listesini döndürür."""
+    if needs_update():
+        update_top100()
 
-# İlk çalıştırmada güncelleme yap
-if not os.path.exists(JSON_FILE):
-    update_top100()
-
-# Her 3 günde bir çalıştır (Gece 03:00'te)
-scheduler.add_job(id='three_day_update', func=update_top100, trigger='cron', day="*/3", hour=3)
-scheduler.start()
+    with open(TOP100_JSON, 'r', encoding='utf-8') as f:
+        return jsonify(json.load(f))
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
