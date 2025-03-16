@@ -1,54 +1,39 @@
-import time
-import random
-from flask import Flask, jsonify
-import yt_dlp
+import os
 
-app = Flask(__name__)
+# Ortam değişkeninden cookies bilgisini al
+COOKIES = os.getenv("COOKIES")
 
-# Çerez dosyasının yolu
-COOKIES_FILE = "cookies.txt"
+ydl_opts = {
+    'quiet': True,
+    'extract_flat': True,
+    'force_generic_extractor': True,
+    'sleep_interval': 5,
+    'max_sleep_interval': 20,
+    'proxy': PROXY_URL,
+    'cookiefile': '-'  # Standart cookies dosyası yerine stdin kullan
+}
 
-def get_audio_url(video_id):
-    """YouTube Music'ten doğrudan ses URL'sini alır."""
-    ydl_opts = {
-        'quiet': True,
-        'format': 'bestaudio',
-        'extractor_args': {'youtube': {'po_token': 'web_music.gvs+XXX'}},  # PO Token Kullan
-        'cookies': COOKIES_FILE  # Çerezleri Kullan
-    }
-
-    # Her istekte rastgele 3-10 saniye bekle
-    delay = random.randint(3, 10)
-    time.sleep(delay)
+def get_top100():
+    playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
+    
+    # Eğer cookies ortam değişkeni varsa, bunu kullanarak yt-dlp'ye ver
+    if COOKIES:
+        ydl_opts['cookiesfromstring'] = COOKIES
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        try:
-            info = ydl.extract_info(f"https://music.youtube.com/watch?v={video_id}", download=False)
-            if 'url' in info:
-                return info['url']
-            else:
-                return None
-        except yt_dlp.utils.DownloadError as e:
-            # Eğer 403 hatası alırsak, engellenmiş olabiliriz
-            if "HTTP Error 403" in str(e):
-                return "BLOCKED"
-            return None
+        info = ydl.extract_info(playlist_url, download=False)
 
-@app.route('/track/<video_id>', methods=['GET'])
-def track(video_id):
-    """Belirli bir video için ses URL'sini döndüren API."""
-    try:
-        audio_url = get_audio_url(video_id)
+    tracks = []
+    if 'entries' in info:
+        for entry in info['entries']:
+            title = entry.get('title', 'Bilinmeyen Şarkı')
+            artist = entry.get('uploader', 'Bilinmeyen Sanatçı')
+            audio_url = f"https://music.youtube.com/watch?v={entry.get('id', '')}"
 
-        if audio_url == "BLOCKED":
-            return jsonify({"error": "YouTube Music tarafından engellenmiş olabilirsin. Birkaç saat bekleyip tekrar dene."}), 403
+            tracks.append({
+                'title': title,
+                'artist': artist,
+                'audioUrl': audio_url
+            })
 
-        if audio_url:
-            return jsonify({"audioUrl": audio_url})
-
-        return jsonify({"error": "Ses dosyası bulunamadı"}), 404
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    return tracks
