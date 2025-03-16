@@ -1,37 +1,48 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request, send_from_directory
 import yt_dlp
+import os
 
 app = Flask(__name__)
+UPLOAD_FOLDER = "downloads"
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 
-def get_top100():
-    # YouTube Music Top 100 URL (örnek olarak popüler bir liste alınabilir)
-    playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
+def download_mp3(video_url):
+    """YouTube Music videosunu MP3 olarak indirir."""
     ydl_opts = {
-        'quiet': True,
-        'extract_flat': True,  # Sadece bağlantıları almak için
-        'force_generic_extractor': True  # Ayrıntılı bilgi çekmek için
+        'format': 'bestaudio/best',
+        'outtmpl': f'{UPLOAD_FOLDER}/%(title)s.%(ext)s',
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
+        }],
+        'quiet': True
     }
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(playlist_url, download=False)
-    
-    tracks = []
-    if 'entries' in info:
-        for entry in info['entries']:
-            tracks.append({
-                'title': entry.get('title', 'Bilinmeyen Şarkı'),
-                'artist': entry.get('uploader', 'Bilinmeyen Sanatçı'),
-                'streamUrl': f"https://music.youtube.com/watch?v={entry.get('id', '')}"
-            })
-    return tracks
+        info = ydl.extract_info(video_url, download=True)
+        file_name = f"{info['title']}.mp3"
+        return file_name
 
-@app.route('/top100', methods=['GET'])
-def top100():
+@app.route('/download', methods=['POST'])
+def download():
+    """Belirtilen şarkıyı indirir ve URL döndürür."""
+    data = request.json
+    if not data or "url" not in data:
+        return jsonify({"error": "Lütfen geçerli bir URL sağlayın."}), 400
+    
     try:
-        tracks = get_top100()
-        return jsonify({'tracks': tracks})
+        file_name = download_mp3(data["url"])
+        file_url = f"https://your-render-app.onrender.com/files/{file_name}"
+        return jsonify({"message": "İndirme tamamlandı!", "file_url": file_url})
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/files/<filename>', methods=['GET'])
+def serve_file(filename):
+    """İndirilen MP3 dosyalarını sunar."""
+    return send_from_directory(app.config["UPLOAD_FOLDER"], filename)
 
 if __name__ == '__main__':
     app.run(debug=True)
