@@ -9,7 +9,7 @@ def get_top100():
         'quiet': True,
         'extract_flat': True,
         'force_generic_extractor': True,
-        'cookies': 'C:\Users\gulec\Desktop\ytmusic-flask-api/cookies.txt'  
+        'cookies': 'C:/Users/gulec/Desktop/ytmusic-flask-api/cookies.txt'  
     }
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
