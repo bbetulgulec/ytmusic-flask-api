@@ -3,42 +3,42 @@ import yt_dlp
 
 app = Flask(__name__)
 
+# Önceden belirlenmiş linkler (senin verdiğin sahte linkler)
+custom_links = {
+    "Şarkı 1": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742137974&ei=FpbWZ6DXKNj-xN8PiKPw2A8&itag=251",
+    "Şarkı 2": "https://rr2---sn-u0g3uxax3-xncz.googlevideo.com/videoplayback?expire=1742137979&ei=G5bWZ9aRCa3yi9oP8Le1-QE&itag=251"
+}
+
 def get_top100():
     playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
     ydl_opts = {
         'quiet': True,
-        'extract_flat': False,  # Tam veri çekmek için
-        'format': 'bestaudio/best',
-        'noplaylist': False,  # Oynatma listesini işle
-        'force_generic_extractor': False,
-        'cookiefile': 'cookies.txt',  # Çerezleri kullan (Render'da bu olmayabilir)
-        'extractor-args': 'youtube:player_client=web',
+        'extract_flat': True,
+        'force_generic_extractor': True,
         'sleep_interval': 5,
-        'max_sleep_interval': 10
+        'max_sleep_interval': 20
     }
 
-    tracks = []
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         info = ydl.extract_info(playlist_url, download=False)
 
-        if 'entries' in info:
-            for entry in info['entries']:
-                video_url = f"https://music.youtube.com/watch?v={entry.get('id', '')}"
+    tracks = []
+    if 'entries' in info:
+        for entry in info['entries']:
+            title = entry.get('title', 'Bilinmeyen Şarkı')
+            artist = entry.get('uploader', 'Bilinmeyen Sanatçı')
 
-                # Ses linkini al
-                try:
-                    with yt_dlp.YoutubeDL({'quiet': True, 'format': 'bestaudio'}) as audio_ydl:
-                        audio_info = audio_ydl.extract_info(video_url, download=False)
-                        audio_url = audio_info.get('url', 'Ses dosyası alınamadı')
-                except Exception:
-                    audio_url = "Ses dosyası alınamadı"
+            # Eğer özel URL varsa, onu kullan; yoksa YouTube Music linkini ekle
+            if title in custom_links:
+                audio_url = custom_links[title]
+            else:
+                audio_url = f"https://music.youtube.com/watch?v={entry.get('id', '')}"
 
-                tracks.append({
-                    'title': entry.get('title', 'Bilinmeyen Şarkı'),
-                    'artist': entry.get('uploader', 'Bilinmeyen Sanatçı'),
-                    'audioUrl': audio_url  # Burada artık direkt stream URL var
-                })
-
+            tracks.append({
+                'title': title,
+                'artist': artist,
+                'audioUrl': audio_url
+            })
     return tracks
 
 @app.route('/top100', methods=['GET'])
