@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, send_file, request
+from flask import Flask, jsonify, send_file
 import sqlite3
 import os
 
@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Temel yol tanımlamaları
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_FILE = os.path.join(BASE_DIR, "SongData.db")
-SONGS_DIR = os.path.join(BASE_DIR, "songs")  # Şarkı dosyalarının bulunduğu klasör
+SONGS_DIR = os.path.join(BASE_DIR, "songs")
 
 # Şarkı listesini çeken fonksiyon
 def get_songs():
@@ -20,7 +20,7 @@ def get_songs():
                 "id": row[0],
                 "title": row[1],
                 "artist": row[2],
-                "file_path": f"/play/{row[0]}",  # Dinamik URL
+                "file_path": f"/play/{row[0]}",
                 "thumbnail_url": row[4]
             }
             for row in cursor.fetchall()
@@ -30,7 +30,6 @@ def get_songs():
     except sqlite3.Error as e:
         return {"error": f"Veritabanı hatası: {str(e)}"}
 
-# Şarkı listesini döndüren route
 @app.route("/songs", methods=["GET"])
 def songs():
     song_data = get_songs()
@@ -38,7 +37,6 @@ def songs():
         return jsonify(song_data), 500
     return jsonify(song_data)
 
-# Şarkıyı çalan route
 @app.route("/play/<int:song_id>", methods=["GET"])
 def play_song(song_id):
     try:
@@ -49,18 +47,14 @@ def play_song(song_id):
         conn.close()
 
         if song:
-            # Dosya yolunu tam path'e çevir
             song_path = os.path.join(SONGS_DIR, os.path.basename(song[0]))
             if os.path.exists(song_path):
                 return send_file(song_path, mimetype="audio/mpeg", as_attachment=False)
-            return jsonify({"error": "Şarkı dosyası sunucuda bulunamadı"}), 404
+            return jsonify({"error": "Şarkı dosyası bulunamadı"}), 404
         return jsonify({"error": "Şarkı veritabanında bulunamadı"}), 404
     except sqlite3.Error as e:
         return jsonify({"error": f"Veritabanı hatası: {str(e)}"}), 500
-    except Exception as e:
-        return jsonify({"error": f"Beklenmeyen hata: {str(e)}"}), 500
 
-# Uygulamayı başlat
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 10000))  # Render için port
-    app.run(debug=False, host="0.0.0.0", port=port)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=False)
