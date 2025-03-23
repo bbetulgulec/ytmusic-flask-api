@@ -1,12 +1,13 @@
 from flask import Flask, jsonify
-import yt_dlp
+from ytmusicapi import YTMusic
 import os
 
 app = Flask(__name__)
 
-# Cookie dosyasının yolu
+# YTMusic kimlik doğrulaması (önceden oluşturulmuş headers_auth.json kullan)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-COOKIE_FILE = os.path.join(BASE_DIR, "cookies.txt")
+AUTH_FILE = os.path.join(BASE_DIR, "headers_auth.json")
+ytmusic = YTMusic(AUTH_FILE)
 
 @app.route("/")
 def home():
@@ -14,45 +15,27 @@ def home():
 
 @app.route("/top100", methods=["GET"])
 def top100():
-    playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
-
-    ydl_opts = {
-        'quiet': True,
-        'format': 'bestaudio/best',
-        'extract_flat': False,
-        'noplaylist': False,
-        'force_generic_extractor': False,
-        'sleep_interval': 3,
-        'max_sleep_interval': 7,
-        'cookiefile': COOKIE_FILE,  # Cookie dosyasını kullan
-    }
-
     try:
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            playlist_info = ydl.extract_info(playlist_url, download=False)
+        playlist_id = "PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
+        playlist = ytmusic.get_playlist(playlist_id, limit=100)
 
         tracks = []
-        if 'entries' in playlist_info:
-            for entry in playlist_info['entries']:
-                if entry is None:
-                    continue
+        for track in playlist['tracks']:
+            title = track.get('title', 'Bilinmeyen Şarkı')
+            artist = track['artists'][0]['name'] if track.get('artists') else 'Bilinmeyen Sanatçı'
+            video_id = track.get('videoId', '')
+            audio_url = f"https://music.youtube.com/watch?v={video_id}"  # Direkt oynatma URL’si değil, ama yt-dlp ile çekebiliriz
 
-                title = entry.get('title', 'Bilinmeyen Şarkı')
-                artist = entry.get('uploader', 'Bilinmeyen Sanatçı')
-                audio_url = entry.get('url', '')
-
-                tracks.append({
-                    'title': title,
-                    'artist': artist,
-                    'audioUrl': audio_url
-                })
+            tracks.append({
+                'title': title,
+                'artist': artist,
+                'audioUrl': audio_url
+            })
 
         return jsonify({'tracks': tracks})
 
-    except yt_dlp.utils.DownloadError as e:
-        return jsonify({"error": f"Download Error: {str(e)}"}), 500
     except Exception as e:
-        return jsonify({"error": f"Bilinmeyen Hata: {str(e)}"}), 500
+        return jsonify({"error": f"Hata: {str(e)}"}), 500
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
