@@ -1,59 +1,58 @@
-from flask import Flask, jsonify, send_file
-import sqlite3
+from flask import Flask, jsonify
+import yt_dlp
 import os
 
 app = Flask(__name__)
 
-# Temel yol tanımlamaları
+# Cookie dosyasının yolu
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DB_FILE = os.path.join(BASE_DIR, "SongData.db")
-SONGS_DIR = os.path.join(BASE_DIR, "songs")
+COOKIE_FILE = os.path.join(BASE_DIR, "cookies.txt")
 
-# Şarkı listesini çeken fonksiyon
-def get_songs():
+@app.route("/")
+def home():
+    return "API Çalışıyor!"
+
+@app.route("/top100", methods=["GET"])
+def top100():
+    playlist_url = "https://music.youtube.com/playlist?list=PL4fGSI1pDJn5tdVDtIAZArERm_vv4uFCR"
+
+    ydl_opts = {
+        'quiet': True,
+        'format': 'bestaudio/best',
+        'extract_flat': False,
+        'noplaylist': False,
+        'force_generic_extractor': False,
+        'sleep_interval': 3,
+        'max_sleep_interval': 7,
+        'cookiefile': COOKIE_FILE,  # Cookie dosyasını kullan
+    }
+
     try:
-        conn = sqlite3.connect(DB_FILE)
-        cursor = conn.cursor()
-        cursor.execute("SELECT id, title, artist, file_path, thumbnail_url FROM songs")
-        songs = [
-            {
-                "id": row[0],
-                "title": row[1],
-                "artist": row[2],
-                "file_path": f"/play/{row[0]}",
-                "thumbnail_url": row[4]
-            }
-            for row in cursor.fetchall()
-        ]
-        conn.close()
-        return songs
-    except sqlite3.Error as e:
-        return {"error": f"Veritabanı hatası: {str(e)}"}
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            playlist_info = ydl.extract_info(playlist_url, download=False)
 
-@app.route("/songs", methods=["GET"])
-def songs():
-    song_data = get_songs()
-    if isinstance(song_data, dict) and "error" in song_data:
-        return jsonify(song_data), 500
-    return jsonify(song_data)
+        tracks = []
+        if 'entries' in playlist_info:
+            for entry in playlist_info['entries']:
+                if entry is None:
+                    continue
 
-@app.route("/play/<int:song_id>", methods=["GET"])
-def play_song(song_id):
-    try:
-        conn = sqlite3.connect(DB_FILE)
-        cursor = conn.cursor()
-        cursor.execute("SELECT file_path FROM songs WHERE id = ?", (song_id,))
-        song = cursor.fetchone()
-        conn.close()
+                title = entry.get('title', 'Bilinmeyen Şarkı')
+                artist = entry.get('uploader', 'Bilinmeyen Sanatçı')
+                audio_url = entry.get('url', '')
 
-        if song:
-            song_path = os.path.join(SONGS_DIR, os.path.basename(song[0]))
-            if os.path.exists(song_path):
-                return send_file(song_path, mimetype="audio/mpeg", as_attachment=False)
-            return jsonify({"error": "Şarkı dosyası bulunamadı"}), 404
-        return jsonify({"error": "Şarkı veritabanında bulunamadı"}), 404
-    except sqlite3.Error as e:
-        return jsonify({"error": f"Veritabanı hatası: {str(e)}"}), 500
+                tracks.append({
+                    'title': title,
+                    'artist': artist,
+                    'audioUrl': audio_url
+                })
+
+        return jsonify({'tracks': tracks})
+
+    except yt_dlp.utils.DownloadError as e:
+        return jsonify({"error": f"Download Error: {str(e)}"}), 500
+    except Exception as e:
+        return jsonify({"error": f"Bilinmeyen Hata: {str(e)}"}), 500
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
